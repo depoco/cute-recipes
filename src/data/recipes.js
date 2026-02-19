@@ -409,14 +409,14 @@ export const recipes = [
           {
             items: [
               "2 benfria kycklingbrost, tillagade och rivna",
-              "4 koppar blandade blad (t.ex. sallad, spenat eller ruccola)",
-              "1/2 kopp morot, strimlad",
-              "1/2 kopp rodkal, strimlad",
-              "1/4 kopp gurka, tunt skivad",
-              "1/4 kopp rod paprika, tunt skivad",
-              "1/4 kopp farsk koriander, hackad",
-              "1/4 kopp farsk mynta, hackad",
-              "1/4 kopp rostade jordnotter, hackade (valfritt)"
+              "ca 9,5 dl blandade blad (t.ex. sallad, spenat eller ruccola)",
+              "1,2 dl morot, strimlad",
+              "1,2 dl rodkal, strimlad",
+              "0,6 dl gurka, tunt skivad",
+              "0,6 dl rod paprika, tunt skivad",
+              "0,6 dl farsk koriander, hackad",
+              "0,6 dl farsk mynta, hackad",
+              "0,6 dl rostade jordnotter, hackade (valfritt)"
             ]
           },
           {
@@ -616,20 +616,20 @@ export const recipes = [
         ingredients: [
           {
             items: [
-              "8 oz risnudlar (eller valfria nudlar)",
-              "1/2 kopp jordnotssmor",
+              "225 g risnudlar (eller valfria nudlar)",
+              "1,2 dl jordnotssmor",
               "2 msk soja",
               "1 msk limesaft",
               "1 msk honung",
               "1 msk sesamolja",
               "1 tsk chili-vitlokssas (eller mer for extra hetta)",
-              "1/2 kopp strimlad morot",
-              "1/4 kopp hackad gurka",
-              "1/4 kopp rod paprika, tunt skivad",
-              "1/4 kopp hackad salladslok",
+              "1,2 dl strimlad morot",
+              "0,6 dl hackad gurka",
+              "0,6 dl rod paprika, tunt skivad",
+              "0,6 dl hackad salladslok",
               "2 msk hackad koriander",
               "1 msk rostade sesamfron",
-              "1/4 kopp krossade jordnotter (valfritt)"
+              "0,6 dl krossade jordnotter (valfritt)"
             ]
           }
         ],
@@ -708,9 +708,9 @@ export const recipes = [
             items: [
               "1 mogen mango, strimlad",
               "1 stort apple, strimlat (gront eller rott)",
-              "4 koppar strimlad kal (vitkal eller napakal)",
-              "1/4 kopp strimlad morot",
-              "1/4 kopp farsk koriander, hackad",
+              "ca 9,5 dl strimlad kal (vitkal eller napakal)",
+              "0,6 dl strimlad morot",
+              "0,6 dl farsk koriander, hackad",
               "1 msk sesamfron (valfritt)"
             ]
           },
@@ -800,11 +800,11 @@ export const recipes = [
         ingredients: [
           {
             items: [
-              "4 koppar strimlad kal",
-              "1 kopp strimlad morot",
-              "1/2 kopp rod paprika, skivad",
-              "1/4 kopp hackad salladslok",
-              "1/4 kopp hackad koriander",
+              "ca 9,5 dl strimlad kal",
+              "2,4 dl strimlad morot",
+              "1,2 dl rod paprika, skivad",
+              "0,6 dl hackad salladslok",
+              "0,6 dl hackad koriander",
               "1 msk sesamfron, rostade"
             ]
           },
@@ -891,20 +891,20 @@ export const recipes = [
       sv: "Marinerad ostaptitretare med salami och pickles",
       en: "Marinated cheese appetizer with salami and pickles"
     },
-    tags: ["finger-food", "starter"],
+    tags: ["finger-food"],
     content: {
       sv: {
         intro: "En enkel och smakrik aptitretare med marinerad ost, salami, pickles och oliver. Perfekt till mingel, charkbrada eller som forratt.",
         ingredients: [
           {
             items: [
-              "6 oz havarti, tarningar",
-              "1/2 kopp soltorkade tomater",
-              "1 kopp salami, tarningar",
-              "1/2 kopp cornichoner (mini-pickles)",
-              "1/2 kopp castelvetrano-oliver",
+              "170 g havarti, tarningar",
+              "1,2 dl soltorkade tomater",
+              "2,4 dl salami, tarningar",
+              "1,2 dl cornichoner (mini-pickles)",
+              "1,2 dl castelvetrano-oliver",
               "2 msk farsk basilika, grovhackad",
-              "1 kopp Garlic Expressions (eller annan italiensk vinaigrette)"
+              "2,4 dl Garlic Expressions (eller annan italiensk vinaigrette)"
             ]
           }
         ],
