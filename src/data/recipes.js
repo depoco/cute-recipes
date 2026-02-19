@@ -882,5 +882,133 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "easy-marinated-cheese-salami-pickles",
+    title: "Easy Marinated Cheese Appetizer with Salami & Pickles",
+    image: "/recipes/easy-marinated-cheese-salami-pickles/images/easy-marinated-cheese-salami-pickles.jpg",
+    imageAlt: {
+      sv: "Marinerad ostaptitretare med salami och pickles",
+      en: "Marinated cheese appetizer with salami and pickles"
+    },
+    tags: ["finger-food", "starter"],
+    content: {
+      sv: {
+        intro: "En enkel och smakrik aptitretare med marinerad ost, salami, pickles och oliver. Perfekt till mingel, charkbrada eller som forratt.",
+        ingredients: [
+          {
+            items: [
+              "6 oz havarti, tarningar",
+              "1/2 kopp soltorkade tomater",
+              "1 kopp salami, tarningar",
+              "1/2 kopp cornichoner (mini-pickles)",
+              "1/2 kopp castelvetrano-oliver",
+              "2 msk farsk basilika, grovhackad",
+              "1 kopp Garlic Expressions (eller annan italiensk vinaigrette)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Blanda allt",
+            items: [
+              "Lagg havarti, salami, soltorkade tomater, cornichoner, oliver och basilika i en skal.",
+              "Vand forsiktigt sa allt blandas jamnt utan att osten mosas."
+            ]
+          },
+          {
+            title: "Tillsatt marinad",
+            items: [
+              "Hall over vinaigretten och ror runt tills allt ar latt tackt."
+            ]
+          },
+          {
+            title: "Marinera",
+            items: [
+              "Flytta over till glasburk eller tat behallare och stall i kyl i minst 1 timme.",
+              "For djupare smak kan den sta i kyl upp till 1 vecka. Vanda eller skaka latt en gang per dag."
+            ]
+          },
+          {
+            title: "Servera",
+            items: [
+              "Ta fram 10 minuter fore servering.",
+              "Servera som den ar, eller med kex, crostini eller farskt brod."
+            ]
+          }
+        ],
+        timing: ["Forberedelsetid: 10 minuter", "Tillagningstid: 0 minuter", "Marinering: minst 1 timme", "Total tid: 1 timme 10 minuter"],
+        nutrition: {
+          title: "Naringsvarde (per portion, 6 portioner)",
+          items: [
+            "Kalorier: 210 kcal",
+            "Fett: 17,8 g",
+            "Mattat fett: 7,2 g",
+            "Kolhydrater: 4,3 g",
+            "Socker: 2,1 g",
+            "Protein: 10,6 g",
+            "Natrium: 480-550 mg"
+          ]
+        }
+      },
+      en: {
+        intro: "An easy, crowd-pleasing appetizer with marinated havarti, salami, pickles, and olives. Great for parties, charcuterie boards, or as a starter.",
+        ingredients: [
+          {
+            items: [
+              "6 oz Havarti cheese, diced into bite-sized cubes",
+              "1/2 cup sun-dried tomatoes",
+              "1 cup salami, diced into cubes",
+              "1/2 cup cornichons (mini pickles)",
+              "1/2 cup Castelvetrano olives",
+              "2 tablespoons fresh basil, roughly chopped",
+              "1 cup Garlic Expressions (or your favorite Italian-style vinaigrette)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Combine",
+            items: [
+              "In a medium bowl, combine havarti, salami, sun-dried tomatoes, cornichons, olives, and basil.",
+              "Toss gently to keep the cheese cubes intact."
+            ]
+          },
+          {
+            title: "Add marinade",
+            items: [
+              "Pour in the vinaigrette and stir until lightly coated."
+            ]
+          },
+          {
+            title: "Marinate",
+            items: [
+              "Transfer to a mason jar or airtight container and refrigerate at least 1 hour.",
+              "For deeper flavor, marinate up to 1 week and gently shake once a day."
+            ]
+          },
+          {
+            title: "Serve",
+            items: [
+              "Let it sit at room temperature for 10 minutes before serving.",
+              "Serve with crackers, crostini, or fresh bread."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cook Time: 0 minutes", "Marinating Time: at least 1 hour", "Total Time: 1 hour 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving, 6 servings total)",
+          items: [
+            "Calories: 210 kcal",
+            "Total Fat: 17.8 g",
+            "Saturated Fat: 7.2 g",
+            "Carbohydrates: 4.3 g",
+            "Sugars: 2.1 g",
+            "Protein: 10.6 g",
+            "Sodium: 480-550 mg"
+          ]
+        }
+      }
+    }
   }
 ];
