@@ -894,16 +894,16 @@ export const recipes = [
     tags: ["finger-food"],
     content: {
       sv: {
-        intro: "En enkel och smakrik aptitretare med marinerad ost, salami, pickles och oliver. Perfekt till mingel, charkbrada eller som forratt.",
+        intro: "En enkel och smakrik aptitretare med marinerad ost, salami, pickles och oliver. Perfekt till mingel, charkbrada eller som förrätt.",
         ingredients: [
           {
             items: [
-              "170 g havarti, tarningar",
+              "170 g havarti, tärningar",
               "1,2 dl soltorkade tomater",
-              "2,4 dl salami, tarningar",
+              "2,4 dl salami, tärningar",
               "1,2 dl cornichoner (mini-pickles)",
               "1,2 dl castelvetrano-oliver",
-              "2 msk farsk basilika, grovhackad",
+              "2 msk färsk basilika, grovhackad",
               "2,4 dl Garlic Expressions (eller annan italiensk vinaigrette)"
             ]
           }
@@ -912,38 +912,38 @@ export const recipes = [
           {
             title: "Blanda allt",
             items: [
-              "Lagg havarti, salami, soltorkade tomater, cornichoner, oliver och basilika i en skal.",
-              "Vand forsiktigt sa allt blandas jamnt utan att osten mosas."
+              "Lägg havarti, salami, soltorkade tomater, cornichoner, oliver och basilika i en skål.",
+              "Vänd försiktigt så allt blandas jämnt utan att osten mosas."
             ]
           },
           {
-            title: "Tillsatt marinad",
+            title: "Tillsätt marinad",
             items: [
-              "Hall over vinaigretten och ror runt tills allt ar latt tackt."
+              "Häll över vinaigretten och rör runt tills allt är lätt täckt."
             ]
           },
           {
             title: "Marinera",
             items: [
-              "Flytta over till glasburk eller tat behallare och stall i kyl i minst 1 timme.",
-              "For djupare smak kan den sta i kyl upp till 1 vecka. Vanda eller skaka latt en gang per dag."
+              "Flytta över till glasburk eller tät behållare och ställ i kyl i minst 1 timme.",
+              "För djupare smak kan den stå i kyl upp till 1 vecka. Vända eller skaka lätt en gång per dag."
             ]
           },
           {
             title: "Servera",
             items: [
-              "Ta fram 10 minuter fore servering.",
-              "Servera som den ar, eller med kex, crostini eller farskt brod."
+              "Ta fram 10 minuter före servering.",
+              "Servera som den är, eller med kex, crostini eller färskt bröd."
             ]
           }
         ],
-        timing: ["Forberedelsetid: 10 minuter", "Tillagningstid: 0 minuter", "Marinering: minst 1 timme", "Total tid: 1 timme 10 minuter"],
+        timing: ["Förberedelsetid: 10 minuter", "Tillagningstid: 0 minuter", "Marinering: minst 1 timme", "Total tid: 1 timme 10 minuter"],
         nutrition: {
-          title: "Naringsvarde (per portion, 6 portioner)",
+          title: "Näringsvärde (per portion, 6 portioner)",
           items: [
             "Kalorier: 210 kcal",
             "Fett: 17,8 g",
-            "Mattat fett: 7,2 g",
+            "Mättat fett: 7,2 g",
             "Kolhydrater: 4,3 g",
             "Socker: 2,1 g",
             "Protein: 10,6 g",
