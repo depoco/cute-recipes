@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cute Recipes | Receptsamling</title>
   <link rel="stylesheet" href="assets/css/styles.css" />
+  <script src="assets/js/recipe-filter.js" defer></script>
 </head>
 <body>
   <header class="site-header">
@@ -15,28 +16,74 @@
   <main class="container">
     <section>
       <h2>Alla recept</h2>
+
+      <div class="recipe-controls">
+        <div class="recipe-filters" aria-label="Filtrera recept efter kategori">
+          <button class="filter-btn is-active" type="button" data-filter="all" aria-pressed="true">Alla</button>
+          <button class="filter-btn" type="button" data-filter="finger-food" aria-pressed="false">Plockmat</button>
+          <button class="filter-btn" type="button" data-filter="starter" aria-pressed="false">Förrätt</button>
+          <button class="filter-btn" type="button" data-filter="main-course" aria-pressed="false">Huvudrätt</button>
+          <button class="filter-btn" type="button" data-filter="dessert" aria-pressed="false">Dessert</button>
+        </div>
+
+        <input
+          class="recipe-search"
+          type="search"
+          data-recipe-search
+          placeholder="Sök recept..."
+          aria-label="Sök recept"
+        />
+      </div>
+
       <ul class="recipe-list">
-        <li>
+        <li data-recipe-card data-tags="finger-food">
+          <a class="recipe-link" href="recipes/sesame-soy-shrimp-crispers/index.html">
+            <img
+              class="recipe-thumb"
+              src="recipes/sesame-soy-shrimp-crispers/images/sesame-soy-shrimp-crispers.jpg"
+              alt="Sesamsoja-räkor med krisp"
+            />
+            <div class="recipe-info">
+              <span class="recipe-title">Sesame Soy Shrimp Crispers</span>
+              <div class="recipe-tags" aria-label="Kategorier">
+                <span class="tag-chip">Plockmat</span>
+              </div>
+            </div>
+          </a>
+        </li>
+        <li data-recipe-card data-tags="finger-food">
           <a class="recipe-link" href="recipes/burrata-bomb-hot-honey-pistachio-crunch/index.html">
             <img
               class="recipe-thumb"
               src="recipes/burrata-bomb-hot-honey-pistachio-crunch/images/burrata.jpg"
               alt="Burrata Bomb med hot honey och pistage"
             />
-            <span>Burrata Bomb with Hot Honey &amp; Pistachio Crunch</span>
+            <div class="recipe-info">
+              <span class="recipe-title">Burrata Bomb with Hot Honey &amp; Pistachio Crunch</span>
+              <div class="recipe-tags" aria-label="Kategorier">
+                <span class="tag-chip">Plockmat</span>
+              </div>
+            </div>
           </a>
         </li>
-        <li>
+        <li data-recipe-card data-tags="finger-food">
           <a class="recipe-link" href="recipes/crispy-garlic-cod-bites/index.html">
             <img
               class="recipe-thumb"
               src="recipes/crispy-garlic-cod-bites/images/cod-bites.webp"
               alt="Crispy garlic cod bites"
             />
-            <span>Crispy Garlic Cod Bites with Creamy Lemon Herb Dip</span>
+            <div class="recipe-info">
+              <span class="recipe-title">Crispy Garlic Cod Bites with Creamy Lemon Herb Dip</span>
+              <div class="recipe-tags" aria-label="Kategorier">
+                <span class="tag-chip">Plockmat</span>
+              </div>
+            </div>
           </a>
         </li>
       </ul>
+
+      <p class="filter-empty" data-filter-empty hidden>Inga recept matchar ditt val just nu.</p>
     </section>
   </main>
 </body>
