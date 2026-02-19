@@ -264,6 +264,14 @@ ol {
     width: 52px;
     height: 52px;
   }
+
+  .lang-toggle {
+    margin-bottom: 1.25rem;
+  }
+
+  .recipe-content > section:first-of-type {
+    margin-top: 0.75rem;
+  }
 }
 
 @media (min-width: 900px) {
