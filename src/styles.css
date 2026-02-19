@@ -135,6 +135,13 @@ section,
   transition: transform 0.12s ease, border-color 0.12s ease;
 }
 
+.recipe-link:hover,
+.recipe-link:focus-visible {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+  outline: none;
+}
+
 .recipe-info {
   min-width: 0;
 }
@@ -188,13 +195,6 @@ section,
 
 .recipe-aside .lang-toggle {
   margin: 0;
-}
-
-.recipe-link:hover,
-.recipe-link:focus-visible {
-  border-color: var(--accent);
-  transform: translateY(-1px);
-  outline: none;
 }
 
 .back-link {

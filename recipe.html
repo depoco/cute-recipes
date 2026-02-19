@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cute Recipes | Recept</title>
+  <link rel="stylesheet" href="/src/styles.css" />
+  <script type="module" src="/src/recipe-page.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <h1>Cute Recipes</h1>
+    <p>En enkel privat receptsamling.</p>
+  </header>
+
+  <main class="container">
+    <article class="recipe-content" data-recipe-content>
+      <a class="back-link" href="/index.html">&larr; Tillbaka till alla recept</a>
+
+      <h2 data-recipe-title></h2>
+      <div class="recipe-aside">
+        <img class="recipe-hero" data-recipe-image src="" alt="" />
+
+        <div class="lang-toggle" aria-label="Språkval för recept">
+          <button class="lang-btn" type="button" data-lang-choice="sv">Svenska</button>
+          <button class="lang-btn" type="button" data-lang-choice="en">English</button>
+        </div>
+      </div>
+
+      <section data-lang-content="sv"></section>
+      <section data-lang-content="en" hidden></section>
+    </article>
+  </main>
+</body>
+</html>
