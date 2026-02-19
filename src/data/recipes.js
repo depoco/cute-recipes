@@ -1186,5 +1186,97 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "pollo-en-salsa-de-coco",
+    title: "Pollo en Salsa de Coco",
+    image: "/recipes/pollo-en-salsa-de-coco/images/pollo-en-salsa-de-coco.jpg",
+    imageAlt: {
+      sv: "Puerto Rico inspirerad kyckling i kokossås",
+      en: "Puerto Rican Chicken in Coconut Sauce"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En tropisk twist på klassisk kyckling, kokt i en rik och krämig kokossås med kraftfulla puertarikanska smaker. En tröstande, smakrik rätt som tar ön till ditt bord!",
+        ingredients: [
+          {
+            items: [
+              "4 kycklinglår, benfria och utan skinn",
+              "1 msk olivolja",
+              "1 lök, finhackad",
+              "4 vitlöksklyftor, finhackade",
+              "1 paprika, hackad",
+              "4 dl kokosmjölk",
+              "1,2 dl kycklingbuljong",
+              "1 tsk spiskummin",
+              "1 tsk koriander",
+              "0,5 tsk paprika",
+              "0,5 tsk salt",
+              "0,25 tsk svartpeppar",
+              "1 msk färsk koriander, hackad",
+              "1 msk limejuice"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Hetta upp olivolja i en stor stekpanna på medelhög värme. Lägg i kycklinglåren och bryn på båda sidor i cirka 5-7 minuter. Ta upp och ställ åt sidan.",
+              "I samma stekpanna, tillsätt hackad lök, vitlök och paprika. Fräs i 3-4 minuter tills mjuka.",
+              "Häll i kokosmjölk och kycklingbuljong, rör ner spiskummin, koriander, paprika, salt och svartpeppar.",
+              "Lägg tillbaka kycklingen i stekpannan, täck och småkoka i 25-30 minuter tills kycklingen är helt genomstekt.",
+              "Rör ner koriander och limejuice. Justera kryddningen vid behov.",
+              "Servera varmt med ris eller din favorittillbehör!"
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Tillagningstid: 40 minuter", "Total tid: 50 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 400 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A tropical twist on classic chicken, cooked in a rich, creamy coconut sauce with bold Puerto Rican flavors. A comforting, flavorful dish that will bring the island to your table!",
+        ingredients: [
+          {
+            items: [
+              "4 chicken thighs, bone-in and skinless",
+              "1 tablespoon olive oil",
+              "1 onion, finely chopped",
+              "4 cloves garlic, minced",
+              "1 bell pepper, chopped",
+              "1 can (13.5 oz) coconut milk",
+              "1/2 cup chicken broth",
+              "1 teaspoon ground cumin",
+              "1 teaspoon ground coriander",
+              "1/2 teaspoon paprika",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1 tablespoon fresh cilantro, chopped",
+              "1 tablespoon lime juice"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Heat olive oil in a large skillet over medium heat. Add the chicken thighs and brown on both sides, about 5-7 minutes. Remove and set aside.",
+              "In the same skillet, add the chopped onion, garlic, and bell pepper. Sauté for 3-4 minutes until softened.",
+              "Pour in the coconut milk and chicken broth, then stir in the cumin, coriander, paprika, salt, and black pepper.",
+              "Return the chicken to the skillet, cover, and simmer for 25-30 minutes, or until the chicken is fully cooked through.",
+              "Stir in the cilantro and lime juice. Adjust seasoning if needed.",
+              "Serve hot with rice or your favorite side dish!"
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cooking Time: 40 minutes", "Total Time: 50 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 400 kcal", "Servings: 4"]
+        }
+      }
+    }
   }
 ];
