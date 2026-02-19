@@ -1010,5 +1010,95 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "amaretto-sour",
+    title: "Amaretto Sour",
+    image: "/recipes/amaretto-sour/images/amaretto-sour.jpg",
+    imageAlt: {
+      sv: "Amaretto Sour",
+      en: "Amaretto Sour"
+    },
+    tags: ["drinks"],
+    content: {
+      sv: {
+        intro: "Amaretto Sour är den perfekta kombinationen av sött och surt. Den karaktäristiska mandelsmaken från Amaretto kommer till sin fulla rätt i denna klassiska cocktail.",
+        ingredients: [
+          {
+            items: [
+              "5 cl Amaretto",
+              "3 cl färskpressad citronjuice",
+              "2 cl sockerlag (lika delar socker och vatten)",
+              "2 cl äggvita (eller aquafaba)",
+              "2 stänk Angostura Bitters",
+              "Maraschinkörsbär till garnering"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Häll alla ingredienser i en shaker.",
+              "Torrrskaka shakern - det vill säga skaka utan is. Detta gör att äggvitan blandar och skummar sig bättre och ger drinken en fylligare konsistens.",
+              "Fyll shakern med is och skaka igen tills drinken blivit kall.",
+              "Sila upp drinken genom en finmaskig sil i ett cocktailglas och garnera med ett maraschinkörsbär."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 3 minuter", "Tillagningstid: 4 minuter", "Total tid: 7 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per drink)",
+          items: ["Kalorier: ~180 kcal", "Portioner: 1"]
+        },
+        assumptions: {
+          title: "Anteckningar:",
+          items: [
+            "Sockerlagen görs med lika delar socker och vatten (1:1).",
+            "Ett ägg räcker till 1-3 drinkar.",
+            "Kan också serveras on the rocks (med is) istället för i coupette-glas.",
+            "Kan uteslutas äggvita helt eller ersättas med aquafaba (kikärtsspad)."
+          ]
+        }
+      },
+      en: {
+        intro: "Amaretto Sour is the perfect combination of sweet and sour. The characteristic almond flavor from the Amaretto truly shines in this classic cocktail.",
+        ingredients: [
+          {
+            items: [
+              "5 cl Amaretto",
+              "3 cl fresh lemon juice",
+              "2 cl simple syrup (equal parts sugar and water)",
+              "2 cl egg white (or aquafaba)",
+              "2 dashes Angostura Bitters",
+              "Maraschino cherry for garnish"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Add all ingredients to a shaker.",
+              "Dry shake (shake without ice first). This helps the egg white create a frothy texture and gives the drink a fuller body.",
+              "Fill the shaker with ice and shake again until well chilled.",
+              "Strain through a fine mesh strainer into a cocktail glass and garnish with a maraschino cherry."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 3 minutes", "Mixing Time: 4 minutes", "Total Time: 7 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per drink)",
+          items: ["Calories: ~180 kcal", "Servings: 1"]
+        },
+        assumptions: {
+          title: "Notes:",
+          items: [
+            "Simple syrup is made with equal parts sugar and water (1:1).",
+            "One egg white is enough for 1-3 drinks.",
+            "Can also be served on the rocks instead of in a coupette glass.",
+            "Egg white can be omitted entirely or replaced with aquafaba (chickpea liquid)."
+          ]
+        }
+      }
+    }
   }
 ];
