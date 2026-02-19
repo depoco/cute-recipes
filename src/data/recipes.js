@@ -1278,5 +1278,135 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "cajun-shrimp",
+    title: "Cajun Shrimp",
+    image: "/recipes/cajun-shrimp/images/cajun-shrimp.jpg",
+    imageAlt: {
+      sv: "Cajun räkor i krämig tomatsås",
+      en: "Cajun Shrimp in creamy tomato sauce"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "Det här receptet på Cajun Shrimp börjar med att tillaga saftiga räkor i en het stekpanna och sedan vända dem i en kryddig, krämig tomatsås med en kick av sriracha. Perfekt att servera med pasta för en smakrik måltid!",
+        ingredients: [
+          {
+            items: [
+              "2 msk olivolja",
+              "700 g stora färska räkor, skalade, rensade, med stjärtarna kvar",
+              "1 tsk vitlökspulver",
+              "1 tsk lökpulver",
+              "1 tsk cayennepeppar",
+              "0.5 tsk paprika",
+              "1 tsk koschersalt",
+              "0.5 tsk svartpeppar",
+              "0.5 tsk torkad oregano",
+              "0.5 tsk torkad timjan",
+              "2 msk osaltat smör",
+              "4 vitlöksklyftor, hackade",
+              "0.6 dl tomatpuré",
+              "1 msk mjöl",
+              "4.75 dl kycklingbuljong",
+              "2.4 dl grädde",
+              "1 tsk srirachasås",
+              "1 stor röd paprika, tärnad",
+              "1.2 dl cheddar jack-ost, riven",
+              "1.2 dl finriven parmesanost"
+            ]
+          },
+          {
+            title: "Till servering:",
+            items: [
+              "Kokta nudlar",
+              "Limeklyftor",
+              "2 msk färsk koriander eller persilja, finhackad"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda räkorna med vitlökspulver, lökpulver, cayennepeppar, paprika, koschersalt, svartpeppar, torkad oregano och torkad timjan i en stor skål. Blanda tills räkorna är jämnt täckta med kryddorna. Ställ åt sidan.",
+              "Hetta upp olivolja i en stor stekpanna på medelhög värme. När oljan är varm, lägg i de kryddade räkorna i ett enda lager. Stek räkorna i cirka 2 minuter per sida eller tills de blir rosa och ogenomskinliga. Ta bort räkorna från stekpannan och lägg dem på en tallrik.",
+              "Smält osaltat smör i samma stekpanna på medelvärme. Tillsätt den hackade vitlöken och fräs i 20 sekunder eller tills vitlöken är doftande.",
+              "Rör ner tomatpurén och koka i 2 minuter, låt den mörkna något.",
+              "Strö mjölet över tomatpurén och vitlöksblandningen. Rör kontinuerligt i cirka 1 minut för att koka mjölet och se till att det är helt inarbetat.",
+              "Häll långsamt i kycklingbuljongen, vispa konstant för att få en slät konsistens. Bringa blandningen till en försiktig sjudning och koka i 5 minuter tills den tjocknar.",
+              "Rör ner grädde och srirachasås, och låt såsen sjuda i ytterligare 3-5 minuter för att reducera och utveckla smakerna.",
+              "Tillsätt den tärnade röda paprikan i stekpannan. Koka i cirka 5 minuter, tills paprikan mjuknar och smälter in i såsen.",
+              "Tillsätt den rivna cheddar jack-osten och finriven parmesanost i såsen. Rör kontinuerligt tills osten har smält helt och såsen är slät och krämig.",
+              "Lägg tillbaka de tillagade räkorna i stekpannan, rör försiktigt om för att täcka dem jämnt med den rika, krämiga Cajun-såsen. Låt räkorna värmas igenom.",
+              "Servera Cajun Shrimp över en bädd av kokta nudlar. Garnera med färskhackad koriander eller persilja och limeklyftor vid sidan om."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 15 minuter", "Tillagningstid: 25 minuter", "Total tid: 40 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 618 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "This Cajun Shrimp recipe begins with cooking juicy shrimp in a hot skillet and then tossing them in a spicy, creamy tomato sauce made with a kick of sriracha. Perfect for pairing with pasta for a bold, flavorful meal!",
+        ingredients: [
+          {
+            items: [
+              "2 tablespoons olive oil",
+              "1½ pounds large fresh shrimp, peeled, deveined, tails on",
+              "1 teaspoon garlic powder",
+              "1 teaspoon onion powder",
+              "1 teaspoon cayenne pepper",
+              "½ teaspoon paprika",
+              "1 teaspoon kosher salt",
+              "½ teaspoon black pepper",
+              "½ teaspoon dried oregano",
+              "½ teaspoon dried thyme",
+              "2 tablespoons unsalted butter",
+              "4 cloves garlic, minced",
+              "¼ cup tomato paste",
+              "1 tablespoon flour",
+              "2 cups chicken broth",
+              "1 cup heavy cream",
+              "1 teaspoon sriracha sauce",
+              "1 large red bell pepper, diced",
+              "½ cup cheddar jack cheese, shredded",
+              "½ cup finely grated parmesan cheese"
+            ]
+          },
+          {
+            title: "For Serving:",
+            items: [
+              "cooked noodles",
+              "lime wedges",
+              "2 tablespoons fresh cilantro or parsley, finely chopped"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large mixing bowl, combine the shrimp with garlic powder, onion powder, cayenne pepper, paprika, kosher salt, black pepper, dried oregano, and dried thyme. Toss until the shrimp are evenly coated in the seasoning. Set aside.",
+              "Heat olive oil in a large skillet over medium heat. Once the oil is hot, add the seasoned shrimp in a single layer. Cook the shrimp for approximately 2 minutes per side or until they turn pink and opaque. Remove the shrimp from the skillet and set them aside on a plate.",
+              "Using the same skillet, melt the unsalted butter over medium heat. Add the minced garlic and sauté for 20 seconds or until the garlic is fragrant.",
+              "Stir in the tomato paste, cooking it for 2 minutes, allowing to darken slightly.",
+              "Sprinkle the flour over the tomato paste and garlic mixture. Stir continuously for about 1 minute, ensuring the flour is fully incorporated and cooked.",
+              "Slowly pour in the chicken broth, whisking constantly to achieve a smooth consistency. Bring the mixture to a gentle simmer and cook for 5 minutes until thickened.",
+              "Stir in the heavy cream and sriracha sauce, and let the sauce simmer for another 3-5 minutes, letting the sauce reduce and develop the flavors.",
+              "Add the diced red bell pepper to the skillet. Cook for about 5 minutes, until the pepper softens and melds into the sauce.",
+              "Add the shredded cheddar jack cheese and finely grated parmesan cheese to the sauce. Stir continuously until the cheeses have fully melted and the sauce is smooth and creamy.",
+              "Return the cooked shrimp to the skillet, gently stirring to coat them evenly with the rich, creamy Cajun sauce. Allow the shrimp to warm through.",
+              "Serve the Cajun shrimp over a bed of cooked noodles. Garnish with freshly chopped cilantro or parsley and lime wedges on the side."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 15 minutes", "Cook Time: 25 minutes", "Total Time: 40 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 618 kcal", "Servings: 4"]
+        }
+      }
+    }
   }
 ];
