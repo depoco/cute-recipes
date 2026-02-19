@@ -1100,5 +1100,91 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "negroni",
+    title: "Negroni",
+    image: "/recipes/negroni/images/negroni.jpg",
+    imageAlt: {
+      sv: "Negroni",
+      en: "Negroni"
+    },
+    tags: ["drinks"],
+    content: {
+      sv: {
+        intro: "Negroni är en klassisk drink med anor från tidigt 1900-tal. Drinken är en så kallad spirit-forward-drink och passar med sin något beska smak perfekt som aperitif. Det traditionella grundreceptet med lika delar av varje ingrediens är ett bra utgångsläge att testa sig fram från.",
+        ingredients: [
+          {
+            items: [
+              "2 cl Gin",
+              "2 cl Campari",
+              "2 cl Söt Vermouth (Röd)",
+              "Apelsinzest till garnering"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Häll alla ingredienser i ett rörglas med is. Saknar du rörglas går det bra med någon annan behållare där du kan röra runt drinken med is.",
+              "Rör drinken med is. Smaka av för att känna efter när du hittat rätt balans. Att röra drinken är till för att dels kyla drinken, men också för att späda ut den.",
+              "Sila upp drinken i ett isfyllt glas. En så stor isbit som möjligt är att föredra eftersom det får drinken att inte fortsätta spädas ut i samma tempo som med flera mindre isbitar.",
+              "Ta en bit apelsinzest och pressa det över drinken för att få ut apelsinskalets oljor. Gnid zesten mot glasets kanter innan du stoppar ner det i drinken."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 2 minuter", "Tillredningstid: 4 minuter", "Total tid: 6 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per drink)",
+          items: ["Kalorier: ~180 kcal", "Portioner: 1"]
+        },
+        assumptions: {
+          title: "Anteckningar:",
+          items: [
+            "Testa olika proportioner för att hitta din favoritbalans.",
+            "Varianter: Byt ut gin mot rom för en Boulevardier.",
+            "Testa olika typer och varumärken av gin, aperitif-bitter och vermouth.",
+            "Apelsinzest är obligatoriskt för att få till den rätta smaken."
+          ]
+        }
+      },
+      en: {
+        intro: "Negroni is a classic cocktail with origins dating back to the early 1900s. This spirit-forward drink with its slightly bitter taste is perfect as an apéritif. The traditional recipe with equal parts of each ingredient is a great starting point to experiment from.",
+        ingredients: [
+          {
+            items: [
+              "2 cl Gin",
+              "2 cl Campari",
+              "2 cl Sweet Vermouth (Red)",
+              "Orange zest for garnish"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Add all ingredients to a mixing glass with ice. If you don't have a mixing glass, any container where you can stir the drink with ice will work.",
+              "Stir the drink with ice. Taste to find the right balance. Stirring both chills and dilutes the drink.",
+              "Strain into an ice-filled glass. A large ice cube is preferred as it won't dilute the drink as quickly as several smaller cubes.",
+              "Take a piece of orange zest and squeeze it over the drink to release the oils. Rub the zest around the rim of the glass before adding it to the drink."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 2 minutes", "Mixing Time: 4 minutes", "Total Time: 6 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per drink)",
+          items: ["Calories: ~180 kcal", "Servings: 1"]
+        },
+        assumptions: {
+          title: "Notes:",
+          items: [
+            "Try different proportions to find your favorite balance.",
+            "Variations: Swap gin for bourbon for a Boulevardier.",
+            "Experiment with different types and brands of gin, aperitif bitters, and vermouth.",
+            "Orange zest is essential for the authentic flavor."
+          ]
+        }
+      }
+    }
   }
 ];
