@@ -392,5 +392,495 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "vietnamese-chicken-salad",
+    title: "Vietnamese Chicken Salad",
+    image: "/recipes/vietnamese-chicken-salad/images/vietnamese-chicken-salad.jpg",
+    imageAlt: {
+      sv: "Vietnamesisk kycklingsallad",
+      en: "Vietnamese chicken salad"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En latt och frisk sallad med mork kyckling, krispiga gronsaker och en smakrik vietnamesisk dressing.",
+        ingredients: [
+          {
+            items: [
+              "2 benfria kycklingbrost, tillagade och rivna",
+              "4 koppar blandade blad (t.ex. sallad, spenat eller ruccola)",
+              "1/2 kopp morot, strimlad",
+              "1/2 kopp rodkal, strimlad",
+              "1/4 kopp gurka, tunt skivad",
+              "1/4 kopp rod paprika, tunt skivad",
+              "1/4 kopp farsk koriander, hackad",
+              "1/4 kopp farsk mynta, hackad",
+              "1/4 kopp rostade jordnotter, hackade (valfritt)"
+            ]
+          },
+          {
+            title: "Till dressingen:",
+            items: [
+              "2 msk fisksas",
+              "1 msk limesaft",
+              "1 msk risvinager",
+              "1 tsk socker",
+              "1 vitloksklyfta, finhackad",
+              "1-2 msk vatten (for tunnare dressing, valfritt)",
+              "1/2 tsk chiliflakes (valfritt for hetta)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Forbered salladen",
+            items: [
+              "Blanda riven kyckling, salladsblad, morot, rodkal, gurka, paprika, koriander och mynta i en stor skal. (ca 5 minuter)"
+            ]
+          },
+          {
+            title: "Blanda dressingen",
+            items: [
+              "Vispa ihop fisksas, limesaft, risvinager, socker, vitlok, chiliflakes och vatten i en liten skal. (ca 3 minuter)"
+            ]
+          },
+          {
+            title: "Vand salladen",
+            items: [
+              "Hall dressingen over salladen och vand forsiktigt sa allt blandas jamnt. (ca 2 minuter)"
+            ]
+          },
+          {
+            title: "Servera",
+            items: [
+              "Toppa med rostade jordnotter om du vill och servera direkt. (ca 2 minuter)"
+            ]
+          }
+        ],
+        timing: ["Forberedelsetid: 10 minuter", "Tillagningstid: 10 minuter", "Total tid: 20 minuter"],
+        nutrition: {
+          title: "Naringsvarde (per portion)",
+          items: ["Kalorier: 300 kcal", "Portioner: 2-3"]
+        }
+      },
+      en: {
+        intro: "A light, refreshing salad with tender chicken, crisp vegetables, and a zesty Vietnamese-inspired dressing.",
+        ingredients: [
+          {
+            items: [
+              "2 boneless, skinless chicken breasts, cooked and shredded",
+              "4 cups mixed greens (such as lettuce, spinach, or arugula)",
+              "1/2 cup carrots, julienned",
+              "1/2 cup red cabbage, shredded",
+              "1/4 cup cucumber, thinly sliced",
+              "1/4 cup red bell pepper, thinly sliced",
+              "1/4 cup fresh cilantro, chopped",
+              "1/4 cup fresh mint, chopped",
+              "1/4 cup roasted peanuts, chopped (optional)"
+            ]
+          },
+          {
+            title: "For the Dressing:",
+            items: [
+              "2 tbsp fish sauce",
+              "1 tbsp lime juice",
+              "1 tbsp rice vinegar",
+              "1 tsp sugar",
+              "1 garlic clove, minced",
+              "1-2 tbsp water (to thin dressing, optional)",
+              "1/2 tsp chili flakes (optional for heat)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Prepare the Salad",
+            items: [
+              "In a large bowl, combine shredded chicken, mixed greens, carrots, red cabbage, cucumber, red bell pepper, cilantro, and mint. (Duration: 5 minutes)"
+            ]
+          },
+          {
+            title: "Make the Dressing",
+            items: [
+              "In a small bowl, whisk together fish sauce, lime juice, rice vinegar, sugar, garlic, chili flakes, and water. (Duration: 3 minutes)"
+            ]
+          },
+          {
+            title: "Toss the Salad",
+            items: ["Pour the dressing over the salad and toss gently to coat. (Duration: 2 minutes)"]
+          },
+          {
+            title: "Serve",
+            items: ["Garnish with roasted peanuts if desired and serve immediately. (Duration: 2 minutes)"]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cooking Time: 10 minutes", "Total Time: 20 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 300 kcal", "Servings: 2-3"]
+        }
+      }
+    }
+  },
+  {
+    slug: "soy-sesame-dressing",
+    title: "Soy Sesame Dressing",
+    image: "/recipes/soy-sesame-dressing/images/soy-sesame-dressing.jpg",
+    imageAlt: {
+      sv: "Soja- och sesamdressing",
+      en: "Soy sesame dressing"
+    },
+    tags: ["sauce"],
+    content: {
+      sv: {
+        intro: "En smakrik dressing med soja och sesam som passar till sallad, bowl eller grillade gronsaker.",
+        ingredients: [
+          {
+            items: [
+              "3 msk soja",
+              "2 msk sesamolja",
+              "1 msk risvinager",
+              "1 msk honung",
+              "1 tsk sesamfron",
+              "1/2 tsk riven ingefara",
+              "1/2 tsk vitlok, finhackad",
+              "1 tsk limesaft (valfritt)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Vispa ihop soja, sesamolja, risvinager, honung och limesaft i en liten skal.",
+              "Tillsatt ingefara och vitlok, och ror tills allt ar val blandat.",
+              "Stro i sesamfron och blanda igen.",
+              "Ringla over sallad, risbowl eller rostade gronsaker.",
+              "Forvara rester i kylskap i upp till 1 vecka."
+            ]
+          }
+        ],
+        timing: ["Forberedelsetid: 5 minuter", "Total tid: 5 minuter"],
+        nutrition: {
+          title: "Naringsvarde",
+          items: ["Kalorier: 80 kcal (per matsked)", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A savory, nutty, and slightly sweet dressing perfect for salads, bowls, or grilled vegetables.",
+        ingredients: [
+          {
+            items: [
+              "3 tablespoons soy sauce",
+              "2 tablespoons sesame oil",
+              "1 tablespoon rice vinegar",
+              "1 tablespoon honey",
+              "1 teaspoon sesame seeds",
+              "1/2 teaspoon grated ginger",
+              "1/2 teaspoon garlic, minced",
+              "1 teaspoon lime juice (optional)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, and lime juice.",
+              "Add grated ginger and minced garlic, and stir to combine.",
+              "Sprinkle sesame seeds into the dressing and mix well.",
+              "Drizzle over your favorite salad, rice bowl, or roasted veggies.",
+              "Store any leftover dressing in the fridge for up to 1 week."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 5 minutes", "Total Time: 5 minutes"],
+        nutrition: {
+          title: "Nutritional Information",
+          items: ["Calories: 80 kcal (per tablespoon)", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "spicy-peanut-thai-noodle-salad",
+    title: "Spicy Peanut Thai Noodle Salad",
+    image: "/recipes/spicy-peanut-thai-noodle-salad/images/spicy-peanut-thai-noodle-salad.jpg",
+    imageAlt: {
+      sv: "Thai nudelsallad med stark jordnotssas",
+      en: "Spicy peanut thai noodle salad"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En fargstark nudelsallad med hetta, crunch och kramig jordnotssas.",
+        ingredients: [
+          {
+            items: [
+              "8 oz risnudlar (eller valfria nudlar)",
+              "1/2 kopp jordnotssmor",
+              "2 msk soja",
+              "1 msk limesaft",
+              "1 msk honung",
+              "1 msk sesamolja",
+              "1 tsk chili-vitlokssas (eller mer for extra hetta)",
+              "1/2 kopp strimlad morot",
+              "1/4 kopp hackad gurka",
+              "1/4 kopp rod paprika, tunt skivad",
+              "1/4 kopp hackad salladslok",
+              "2 msk hackad koriander",
+              "1 msk rostade sesamfron",
+              "1/4 kopp krossade jordnotter (valfritt)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Koka nudlarna enligt forpackningen, skolj i kallt vatten och stall at sidan. (ca 10 minuter)",
+              "Vispa ihop jordnotssmor, soja, limesaft, honung, sesamolja och chili-vitlokssas i en liten skal tills sasen ar slat. (ca 5 minuter)",
+              "Blanda de kokta nudlarna med jordnotssasen sa allt tacks ordentligt. (ca 3 minuter)",
+              "Tillsatt morot, gurka, paprika, salladslok och koriander. Vanda runt igen.",
+              "Toppa med sesamfron och krossade jordnotter. Servera direkt eller kyl 10-15 minuter for mer smak."
+            ]
+          }
+        ],
+        timing: ["Forberedelsetid: 10 minuter", "Tillagningstid: 10 minuter", "Total tid: 20 minuter"],
+        nutrition: {
+          title: "Naringsvarde (per portion)",
+          items: ["Kalorier: 320 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A vibrant noodle salad with a perfect balance of heat, crunch, and creamy peanut flavor.",
+        ingredients: [
+          {
+            items: [
+              "8 oz rice noodles (or your choice of noodles)",
+              "1/2 cup peanut butter",
+              "2 tablespoons soy sauce",
+              "1 tablespoon lime juice",
+              "1 tablespoon honey",
+              "1 tablespoon sesame oil",
+              "1 teaspoon chili garlic sauce (or more for extra spice)",
+              "1/2 cup shredded carrots",
+              "1/4 cup chopped cucumber",
+              "1/4 cup red bell pepper, thinly sliced",
+              "1/4 cup chopped green onions",
+              "2 tablespoons chopped cilantro",
+              "1 tablespoon toasted sesame seeds",
+              "1/4 cup crushed peanuts (optional)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Cook the noodles according to package instructions, then rinse with cold water and set aside. (Cook Time: 10 minutes)",
+              "In a small bowl, whisk together peanut butter, soy sauce, lime juice, honey, sesame oil, and chili garlic sauce until smooth. (Prep Time: 5 minutes)",
+              "Toss the cooked noodles with the peanut dressing until well coated. (Total Time: 3 minutes)",
+              "Add shredded carrots, cucumber, red bell pepper, green onions, and cilantro. Toss again.",
+              "Sprinkle with toasted sesame seeds and crushed peanuts. Serve immediately or chill for 10-15 minutes for extra flavor."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cooking Time: 10 minutes", "Total Time: 20 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 320 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "crunchy-mango-apple-slaw",
+    title: "Crunchy Mango Apple Slaw",
+    image: "/recipes/crunchy-mango-apple-slaw/images/crunchy-mango-apple-slaw.jpg",
+    imageAlt: {
+      sv: "Krispig mangoslaw med apple",
+      en: "Crunchy mango apple slaw"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En sot och syrlig slaw med mango, apple och kal. Frasch, fargstark och krispig.",
+        ingredients: [
+          {
+            items: [
+              "1 mogen mango, strimlad",
+              "1 stort apple, strimlat (gront eller rott)",
+              "4 koppar strimlad kal (vitkal eller napakal)",
+              "1/4 kopp strimlad morot",
+              "1/4 kopp farsk koriander, hackad",
+              "1 msk sesamfron (valfritt)"
+            ]
+          },
+          {
+            title: "Till dressingen:",
+            items: [
+              "2 msk limesaft",
+              "1 msk honung",
+              "1 msk applecidervinager",
+              "1 msk olivolja",
+              "Salt och svartpeppar efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda mango, apple, kal och morot i en stor skal.",
+              "Vispa ihop limesaft, honung, applecidervinager, olivolja, salt och peppar i en liten skal.",
+              "Hall dressingen over slawen och vanda forsiktigt runt.",
+              "Toppa med sesamfron for extra crunch (valfritt).",
+              "Servera direkt eller lat sta i kyl 15-20 minuter sa smakerna hinner satta sig."
+            ]
+          }
+        ],
+        timing: ["Forberedelsetid: 10 minuter", "Total tid: 10 minuter"],
+        nutrition: {
+          title: "Naringsvarde (per portion)",
+          items: ["Kalorier: 180 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A sweet and tangy slaw with mango, apple, and cabbage for a bright and crunchy bite.",
+        ingredients: [
+          {
+            items: [
+              "1 ripe mango, julienned",
+              "1 large apple, julienned (green or red)",
+              "4 cups shredded cabbage (green or napa)",
+              "1/4 cup shredded carrots",
+              "1/4 cup fresh cilantro, chopped",
+              "1 tablespoon sesame seeds (optional)"
+            ]
+          },
+          {
+            title: "For the Dressing:",
+            items: [
+              "2 tablespoons lime juice",
+              "1 tablespoon honey",
+              "1 tablespoon apple cider vinegar",
+              "1 tablespoon olive oil",
+              "Salt and pepper to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large bowl, combine mango, apple, shredded cabbage, and carrots.",
+              "In a small bowl, whisk together lime juice, honey, apple cider vinegar, olive oil, salt, and pepper.",
+              "Pour the dressing over the slaw and toss gently to combine.",
+              "Sprinkle with sesame seeds for extra crunch if desired.",
+              "Serve immediately or refrigerate for 15-20 minutes to let flavors blend."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 180 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "asian-slaw-sesame-ginger-dressing",
+    title: "Asian Slaw with Sesame Ginger Dressing",
+    image: "/recipes/asian-slaw-sesame-ginger-dressing/images/asian-slaw-sesame-ginger-dressing.jpg",
+    imageAlt: {
+      sv: "Asiatisk slaw med sesam- och ingefarsdressing",
+      en: "Asian slaw with sesame ginger dressing"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En krispig och frasch asiatisk slaw full av smak. Perfekt som tillbehor eller latt maltid.",
+        ingredients: [
+          {
+            items: [
+              "4 koppar strimlad kal",
+              "1 kopp strimlad morot",
+              "1/2 kopp rod paprika, skivad",
+              "1/4 kopp hackad salladslok",
+              "1/4 kopp hackad koriander",
+              "1 msk sesamfron, rostade"
+            ]
+          },
+          {
+            title: "Till sesam- och ingefarsdressingen:",
+            items: [
+              "3 msk sesamolja",
+              "2 msk risvinager",
+              "1 msk soja",
+              "1 msk honung",
+              "1 tsk riven farsk ingefara",
+              "1 tsk vitlok, finhackad",
+              "1 tsk chiliflakes (valfritt)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda kal, morot, paprika, salladslok och koriander i en stor skal. Vanda runt ordentligt. (ca 10 minuter)",
+              "Vispa ihop sesamolja, risvinager, soja, honung, ingefara, vitlok och chiliflakes i en liten skal tills dressingen ar jamn. (ca 5 minuter)",
+              "Ringla dressingen over slawen och vanda runt sa allt tacks.",
+              "Toppa med rostade sesamfron och vanda en sista gang. (ca 2 minuter)",
+              "Servera direkt, eller kyl i cirka 30 minuter for att lata smakerna satta sig."
+            ]
+          }
+        ],
+        timing: ["Forberedelsetid: 10 minuter", "Tillagningstid: 0 minuter", "Total tid: 15 minuter"],
+        nutrition: {
+          title: "Naringsvarde (per portion)",
+          items: ["Kalorier: 150 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A crisp, refreshing Asian slaw bursting with flavor. Perfect as a side dish or a light, healthy meal.",
+        ingredients: [
+          {
+            items: [
+              "4 cups shredded cabbage",
+              "1 cup shredded carrots",
+              "1/2 cup sliced red bell pepper",
+              "1/4 cup chopped green onions",
+              "1/4 cup chopped cilantro",
+              "1 tablespoon sesame seeds (toasted)"
+            ]
+          },
+          {
+            title: "For the Sesame Ginger Dressing:",
+            items: [
+              "3 tablespoons sesame oil",
+              "2 tablespoons rice vinegar",
+              "1 tablespoon soy sauce",
+              "1 tablespoon honey",
+              "1 teaspoon grated fresh ginger",
+              "1 teaspoon garlic, minced",
+              "1 teaspoon chili flakes (optional)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large mixing bowl, combine cabbage, carrots, bell pepper, green onions, and cilantro. Toss well. (Prep Time: 10 minutes)",
+              "In a small bowl, whisk together sesame oil, rice vinegar, soy sauce, honey, grated ginger, garlic, and chili flakes until smooth. (Prep Time: 5 minutes)",
+              "Drizzle the dressing over the slaw and toss to coat evenly.",
+              "Sprinkle with toasted sesame seeds and give one final toss. (Total Time: 2 minutes)",
+              "Serve immediately, or refrigerate for 30 minutes to let the flavors marinate."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cooking Time: 0 minutes", "Total Time: 15 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 150 kcal", "Servings: 4"]
+        }
+      }
+    }
   }
 ];
