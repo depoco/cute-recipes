@@ -1,6 +1,19 @@
 import { recipes } from "./data/recipes.js";
 
 var storageKey = "cuteRecipesLanguage";
+var baseUrl = import.meta.env.BASE_URL;
+
+function withBase(path) {
+  if (!path) {
+    return path;
+  }
+
+  if (path.charAt(0) === "/") {
+    return baseUrl + path.slice(1);
+  }
+
+  return path;
+}
 
 function getRecipeFromUrl() {
   var params = new URLSearchParams(window.location.search);
@@ -161,7 +174,7 @@ function initRecipePage() {
   }
 
   titleNode.textContent = recipe.title;
-  imageNode.src = recipe.image;
+  imageNode.src = withBase(recipe.image);
   imageNode.alt = recipe.imageAlt.sv || recipe.title;
 
   renderLangSection(svSection, "sv", recipe.content.sv);

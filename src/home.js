@@ -1,6 +1,20 @@
 import { recipes } from "./data/recipes.js";
 import { tagOptions, tagLabels } from "./data/tags.js";
 
+var baseUrl = import.meta.env.BASE_URL;
+
+function withBase(path) {
+  if (!path) {
+    return path;
+  }
+
+  if (path.charAt(0) === "/") {
+    return baseUrl + path.slice(1);
+  }
+
+  return path;
+}
+
 function buildFilterButtons(container, onSelect) {
   tagOptions.forEach(function (tag, index) {
     var button = document.createElement("button");
@@ -23,11 +37,11 @@ function recipeCard(recipe) {
 
   var link = document.createElement("a");
   link.className = "recipe-link";
-  link.href = "/recipe.html?slug=" + encodeURIComponent(recipe.slug);
+  link.href = withBase("recipe.html") + "?slug=" + encodeURIComponent(recipe.slug);
 
   var img = document.createElement("img");
   img.className = "recipe-thumb";
-  img.src = recipe.image;
+  img.src = withBase(recipe.image);
   img.alt = recipe.imageAlt.sv || recipe.title;
 
   var info = document.createElement("div");
