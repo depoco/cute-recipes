@@ -1538,5 +1538,115 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "sesame-soy-roasted-broccolini",
+    title: "Sesame Soy Roasted Broccolini",
+    image: "/recipes/sesame-soy-roasted-broccolini/images/sesame-soy-roasted-broccolini.jpg",
+    imageAlt: {
+      sv: "Rostad broccolini med sesam och soja",
+      en: "Sesame soy roasted broccolini"
+    },
+    tags: ["starter"],
+    content: {
+      sv: {
+        intro: "En enkel men smakrik gronsaksratt med mork broccolini som rostas tills den blir mjuk med lite krispiga kanter och sedan far en savory glaze av sesam och soja.",
+        ingredients: [
+          {
+            items: [
+              "1 knippe broccolini, ansad",
+              "2 msk sesamolja",
+              "1 msk soja (eller tamari for glutenfritt)",
+              "1 tsk honung eller lonnsirap",
+              "1 tsk risvinager",
+              "1/2 tsk vitlokspulver",
+              "1 msk sesamfron",
+              "Salt och svartpeppar efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Forvarm ugnen",
+            items: ["Satt ugnen pa 200 C."]
+          },
+          {
+            title: "Krydda broccolini",
+            items: [
+              "Lagg broccolini pa en plåt.",
+              "Ringla over sesamolja, soja, honung, risvinager, vitlokspulver, salt och peppar.",
+              "Vand runt sa allt blir jamnt tackt."
+            ]
+          },
+          {
+            title: "Rosta",
+            items: [
+              "Rosta i ugnen 12-15 minuter tills broccolini ar mjuk och latt krispig i kanterna."
+            ]
+          },
+          {
+            title: "Servera",
+            items: [
+              "Ta ut ur ugnen och strö over sesamfron.",
+              "Servera direkt som tillbehor."
+            ]
+          }
+        ],
+        timing: ["Forberedelsetid: 5 minuter", "Tillagningstid: 15 minuter", "Total tid: 20 minuter"],
+        nutrition: {
+          title: "Naringsvarde (per portion)",
+          items: ["Kalorier: 150 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A simple but flavorful side dish with tender broccolini roasted until lightly crisp at the edges, then coated in a savory sesame soy glaze.",
+        ingredients: [
+          {
+            items: [
+              "1 bunch broccolini, trimmed",
+              "2 tablespoons sesame oil",
+              "1 tablespoon soy sauce (or tamari for gluten-free)",
+              "1 teaspoon honey or maple syrup",
+              "1 teaspoon rice vinegar",
+              "1/2 teaspoon garlic powder",
+              "1 tablespoon sesame seeds",
+              "Salt and pepper to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Preheat the oven",
+            items: ["Preheat your oven to 400 F (200 C)."]
+          },
+          {
+            title: "Season the broccolini",
+            items: [
+              "Place broccolini on a baking sheet.",
+              "Drizzle with sesame oil, soy sauce, honey, rice vinegar, garlic powder, salt, and pepper.",
+              "Toss to coat evenly."
+            ]
+          },
+          {
+            title: "Roast",
+            items: [
+              "Roast for 12-15 minutes, until tender and slightly crispy at the edges."
+            ]
+          },
+          {
+            title: "Serve",
+            items: [
+              "Remove from the oven and sprinkle with sesame seeds.",
+              "Serve immediately as a flavorful side dish."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 5 minutes", "Cook Time: 15 minutes", "Total Time: 20 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 150 kcal", "Servings: 4"]
+        }
+      }
+    }
   }
 ];
