@@ -1408,5 +1408,135 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "spicy-grilled-shrimp",
+    title: "Spicy Grilled Shrimp",
+    image: "/recipes/spicy-grilled-shrimp/images/spicy-grilled-shrimp.jpg",
+    imageAlt: {
+      sv: "Kryddiga grillade rakor med citron",
+      en: "Spicy grilled shrimp with lemon"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "Ett snabbt och smakrikt rakspektakel med vitlok, citron, paprika och cayenne. Perfekt nar du vill ha mycket smak med minimal insats.",
+        ingredients: [
+          {
+            items: [
+              "1 stor vitloksklyfta",
+              "1 msk grovt salt",
+              "0,5 tsk cayennepeppar",
+              "1 tsk paprikapulver",
+              "2 msk olivolja",
+              "2 tsk farskpressad citronsaft",
+              "700-900 g rakor (ca 15-18 per pound), skalade, skoljda och torkade",
+              "Citronklyftor till servering"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Forbered grillen",
+            items: [
+              "Starta kol- eller gasolgrill, eller satt ugnen pa grillfunktion. Varmen ska vara hog och gallret nara varmekallan."
+            ]
+          },
+          {
+            title: "Gor kryddpastan",
+            items: [
+              "Finhacka vitlok med salt till en pasta.",
+              "Blanda i cayenne och paprikapulver, ror sedan ner olivolja och citronsaft till en jamn marinad."
+            ]
+          },
+          {
+            title: "Tillaga rakorna",
+            items: [
+              "Vand rakorna i pastan sa de tacks jamnt.",
+              "Grilla eller ugnsgrilla 2-3 minuter per sida och vand en gang tills rakorna ar fasta och precis genomstekta."
+            ]
+          },
+          {
+            title: "Servera",
+            items: [
+              "Servera direkt, eller lat svalna latt till rumstemperatur.",
+              "Toppa med citronklyftor vid sidan."
+            ]
+          }
+        ],
+        timing: ["Forberedelsetid: 10 minuter", "Tillagningstid: 10 minuter", "Total tid: 20 minuter"],
+        nutrition: {
+          title: "Naringsvarde (per portion)",
+          items: ["Kalorier: 234 kcal", "Fett: 8 g", "Protein: 40 g", "Kolhydrater: 1 g", "Portioner: 4"]
+        },
+        assumptions: {
+          title: "Anteckningar:",
+          items: [
+            "Baserat pa NYT Cooking-originalet av Mark Bittman.",
+            "Minska salt till 1-2 tsk om du anvander fint salt eller for en mildare saltighet.",
+            "Mindre rakor kan tradas pa spett for enklare hantering pa grillen."
+          ]
+        }
+      },
+      en: {
+        intro: "A fast, flavor-packed shrimp dish with garlic, lemon, paprika, and cayenne. Big taste, minimal effort.",
+        ingredients: [
+          {
+            items: [
+              "1 large garlic clove",
+              "1 tablespoon coarse salt",
+              "1/2 teaspoon cayenne",
+              "1 teaspoon paprika",
+              "2 tablespoons olive oil",
+              "2 teaspoons fresh lemon juice",
+              "1 1/2 to 2 pounds shrimp (15-18 count), peeled, rinsed, and dried",
+              "Lemon wedges, for serving"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Prepare the heat",
+            items: [
+              "Start a charcoal or gas grill, or preheat the broiler. Use very high heat and keep the rack close to the heat source."
+            ]
+          },
+          {
+            title: "Make the spice paste",
+            items: [
+              "Mince the garlic with the salt into a paste.",
+              "Mix in cayenne and paprika, then stir in olive oil and lemon juice to form a smooth paste."
+            ]
+          },
+          {
+            title: "Cook the shrimp",
+            items: [
+              "Coat the shrimp evenly with the paste.",
+              "Grill or broil for 2-3 minutes per side, turning once, until just cooked through."
+            ]
+          },
+          {
+            title: "Serve",
+            items: [
+              "Serve immediately, or slightly cooled at room temperature.",
+              "Add lemon wedges on the side."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cook Time: 10 minutes", "Total Time: 20 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 234 kcal", "Fat: 8 g", "Protein: 40 g", "Carbohydrates: 1 g", "Servings: 4"]
+        },
+        assumptions: {
+          title: "Notes:",
+          items: [
+            "Adapted from the NYT Cooking original by Mark Bittman.",
+            "Reduce salt to 1-2 teaspoons if using fine salt or for a less salty result.",
+            "Smaller shrimp can be skewered for easier grilling."
+          ]
+        }
+      }
+    }
   }
 ];
