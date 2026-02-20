@@ -1417,7 +1417,7 @@ export const recipes = [
       sv: "Kryddiga grillade räkor med citron",
       en: "Spicy grilled shrimp with lemon"
     },
-    tags: ["main-course"],
+    tags: ["finger-food"],
     content: {
       sv: {
         intro: "Ett snabbt och smakrikt räkspektakel med vitlök, citron, paprika och cayenne. Perfekt när du vill ha mycket smak med minimal insats.",
