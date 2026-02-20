@@ -1414,67 +1414,67 @@ export const recipes = [
     title: "Spicy Grilled Shrimp",
     image: "/recipes/spicy-grilled-shrimp/images/spicy-grilled-shrimp.jpg",
     imageAlt: {
-      sv: "Kryddiga grillade rakor med citron",
+      sv: "Kryddiga grillade räkor med citron",
       en: "Spicy grilled shrimp with lemon"
     },
     tags: ["main-course"],
     content: {
       sv: {
-        intro: "Ett snabbt och smakrikt rakspektakel med vitlok, citron, paprika och cayenne. Perfekt nar du vill ha mycket smak med minimal insats.",
+        intro: "Ett snabbt och smakrikt räkspektakel med vitlök, citron, paprika och cayenne. Perfekt när du vill ha mycket smak med minimal insats.",
         ingredients: [
           {
             items: [
-              "1 stor vitloksklyfta",
+              "1 stor vitlöksklyfta",
               "1 msk grovt salt",
               "0,5 tsk cayennepeppar",
               "1 tsk paprikapulver",
               "2 msk olivolja",
-              "2 tsk farskpressad citronsaft",
-              "700-900 g rakor (ca 15-18 per pound), skalade, skoljda och torkade",
+              "2 tsk färskpressad citronsaft",
+              "700-900 g räkor (ca 15-18 per pound), skalade, sköljda och torkade",
               "Citronklyftor till servering"
             ]
           }
         ],
         steps: [
           {
-            title: "Forbered grillen",
+            title: "Förbered grillen",
             items: [
-              "Starta kol- eller gasolgrill, eller satt ugnen pa grillfunktion. Varmen ska vara hog och gallret nara varmekallan."
+              "Starta kol- eller gasolgrill, eller sätt ugnen på grillfunktion. Värmen ska vara hög och gallret nära värmekällan."
             ]
           },
           {
-            title: "Gor kryddpastan",
+            title: "Gör kryddpastan",
             items: [
-              "Finhacka vitlok med salt till en pasta.",
-              "Blanda i cayenne och paprikapulver, ror sedan ner olivolja och citronsaft till en jamn marinad."
+              "Finhacka vitlök med salt till en pasta.",
+              "Blanda i cayenne och paprikapulver, rör sedan ner olivolja och citronsaft till en jämn marinad."
             ]
           },
           {
-            title: "Tillaga rakorna",
+            title: "Tillaga räkorna",
             items: [
-              "Vand rakorna i pastan sa de tacks jamnt.",
-              "Grilla eller ugnsgrilla 2-3 minuter per sida och vand en gang tills rakorna ar fasta och precis genomstekta."
+              "Vänd räkorna i pastan så de täcks jämnt.",
+              "Grilla eller ugnsgrilla 2-3 minuter per sida och vänd en gång tills räkorna är fasta och precis genomstekta."
             ]
           },
           {
             title: "Servera",
             items: [
-              "Servera direkt, eller lat svalna latt till rumstemperatur.",
+              "Servera direkt, eller låt svalna lätt till rumstemperatur.",
               "Toppa med citronklyftor vid sidan."
             ]
           }
         ],
-        timing: ["Forberedelsetid: 10 minuter", "Tillagningstid: 10 minuter", "Total tid: 20 minuter"],
+        timing: ["Förberedelsetid: 10 minuter", "Tillagningstid: 10 minuter", "Total tid: 20 minuter"],
         nutrition: {
-          title: "Naringsvarde (per portion)",
+          title: "Näringsvärde (per portion)",
           items: ["Kalorier: 234 kcal", "Fett: 8 g", "Protein: 40 g", "Kolhydrater: 1 g", "Portioner: 4"]
         },
         assumptions: {
           title: "Anteckningar:",
           items: [
-            "Baserat pa NYT Cooking-originalet av Mark Bittman.",
-            "Minska salt till 1-2 tsk om du anvander fint salt eller for en mildare saltighet.",
-            "Mindre rakor kan tradas pa spett for enklare hantering pa grillen."
+            "Baserat på NYT Cooking-originalet av Mark Bittman.",
+            "Minska salt till 1-2 tsk om du använder fint salt eller för en mildare saltighet.",
+            "Mindre räkor kan träs på spett för enklare hantering på grillen."
           ]
         }
       },
@@ -1550,51 +1550,51 @@ export const recipes = [
     tags: ["starter"],
     content: {
       sv: {
-        intro: "En enkel men smakrik gronsaksratt med mork broccolini som rostas tills den blir mjuk med lite krispiga kanter och sedan far en savory glaze av sesam och soja.",
+        intro: "En enkel men smakrik grönsaksrätt med mörk broccolini som rostas tills den blir mjuk med lite krispiga kanter och sedan får en savory glaze av sesam och soja.",
         ingredients: [
           {
             items: [
               "1 knippe broccolini, ansad",
               "2 msk sesamolja",
-              "1 msk soja (eller tamari for glutenfritt)",
-              "1 tsk honung eller lonnsirap",
-              "1 tsk risvinager",
-              "1/2 tsk vitlokspulver",
-              "1 msk sesamfron",
+              "1 msk soja (eller tamari för glutenfritt)",
+              "1 tsk honung eller lönnsirap",
+              "1 tsk risvinäger",
+              "1/2 tsk vitlökspulver",
+              "1 msk sesamfrön",
               "Salt och svartpeppar efter smak"
             ]
           }
         ],
         steps: [
           {
-            title: "Forvarm ugnen",
-            items: ["Satt ugnen pa 200 C."]
+            title: "Förvärm ugnen",
+            items: ["Sätt ugnen på 200 C."]
           },
           {
             title: "Krydda broccolini",
             items: [
-              "Lagg broccolini pa en plåt.",
-              "Ringla over sesamolja, soja, honung, risvinager, vitlokspulver, salt och peppar.",
-              "Vand runt sa allt blir jamnt tackt."
+              "Lägg broccolini på en plåt.",
+              "Ringla över sesamolja, soja, honung, risvinäger, vitlökspulver, salt och peppar.",
+              "Vänd runt så allt blir jämnt täckt."
             ]
           },
           {
             title: "Rosta",
             items: [
-              "Rosta i ugnen 12-15 minuter tills broccolini ar mjuk och latt krispig i kanterna."
+              "Rosta i ugnen 12-15 minuter tills broccolini är mjuk och lätt krispig i kanterna."
             ]
           },
           {
             title: "Servera",
             items: [
-              "Ta ut ur ugnen och strö over sesamfron.",
-              "Servera direkt som tillbehor."
+              "Ta ut ur ugnen och strö över sesamfrön.",
+              "Servera direkt som tillbehör."
             ]
           }
         ],
-        timing: ["Forberedelsetid: 5 minuter", "Tillagningstid: 15 minuter", "Total tid: 20 minuter"],
+        timing: ["Förberedelsetid: 5 minuter", "Tillagningstid: 15 minuter", "Total tid: 20 minuter"],
         nutrition: {
-          title: "Naringsvarde (per portion)",
+          title: "Näringsvärde (per portion)",
           items: ["Kalorier: 150 kcal", "Portioner: 4"]
         }
       },
