@@ -1648,5 +1648,369 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "mediterranean-ground-beef-pita",
+    title: "Mediterranean Ground Beef Pita with Hot Honey Feta Cream",
+    image: "/recipes/mediterranean-ground-beef-pita/images/mediterranean-ground-beef-pita.jpg",
+    imageAlt: {
+      sv: "Medelhavsinspirerad pita med köttfärs och het honungs-fetakräm",
+      en: "Mediterranean ground beef pita with hot honey feta cream"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "Saftig kryddad köttfärs i varm pita med krispiga grönsaker och en krämig topping av feta, yoghurt och het honung.",
+        ingredients: [
+          {
+            title: "Till köttfärsen:",
+            items: [
+              "450 g mager köttfärs",
+              "2 msk olivolja",
+              "2 vitlöksklyftor, finhackade",
+              "1 tsk torkad oregano",
+              "1 tsk malen spiskummin",
+              "1/2 tsk rökt paprika",
+              "Salt och svartpeppar efter smak"
+            ]
+          },
+          {
+            title: "Till hot honey-fetakrämen:",
+            items: [
+              "1,2 dl grekisk yoghurt",
+              "0,6 dl smulad fetaost",
+              "1 msk honung",
+              "1/4 tsk chiliflakes (justera efter smak)",
+              "1 tsk citronsaft",
+              "En nypa salt"
+            ]
+          },
+          {
+            title: "Till pitas:",
+            items: [
+              "4 pitabröd",
+              "1 dl strimlad sallad",
+              "1,2 dl cocktailtomater, halverade",
+              "1,2 dl gurka, tärningar",
+              "0,6 dl rödlök, tunt skivad",
+              "Valfritt: färsk persilja eller mynta"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Tillaga köttfärsen",
+            items: [
+              "Hetta upp olivolja i en stekpanna på medelvärme.",
+              "Tillsätt vitlök och fräs i cirka 30 sekunder.",
+              "Lägg i köttfärs, oregano, spiskummin, rökt paprika, salt och peppar.",
+              "Stek 7-8 minuter under omrörning tills färsen är brynt och genomstekt.",
+              "Häll av överflödigt fett vid behov."
+            ]
+          },
+          {
+            title: "Blanda feta-kramen",
+            items: [
+              "Blanda yoghurt, fetaost, honung, chiliflakes, citronsaft och en nypa salt i en skål.",
+              "Rör till en jämn och krämig konsistens."
+            ]
+          },
+          {
+            title: "Värm pitas",
+            items: [
+              "Rosta eller värm pitabröden kort i torr stekpanna eller i ugn tills de är mjuka och formbara."
+            ]
+          },
+          {
+            title: "Montera",
+            items: [
+              "Fyll varje pita med köttfärs, sallad, tomater, gurka och rödlök.",
+              "Ringla över hot honey feta cream generöst."
+            ]
+          },
+          {
+            title: "Servera",
+            items: [
+              "Toppa med färsk persilja eller mynta om du vill.",
+              "Servera direkt medan allt är varmt och fräscht."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Tillagningstid: 15 minuter", "Total tid: 25 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per pita, 4 portioner)",
+          items: ["Kalorier: 480 kcal", "Protein: 30 g", "Kolhydrater: 34 g", "Fett: 26 g", "Fiber: 4 g", "Natrium: 520 mg"]
+        }
+      },
+      en: {
+        intro: "Savory Mediterranean-style ground beef in warm pita with crisp vegetables and a creamy hot honey feta sauce.",
+        ingredients: [
+          {
+            title: "For the Ground Beef:",
+            items: [
+              "1 lb (450 g) lean ground beef",
+              "2 tablespoons olive oil",
+              "2 garlic cloves, minced",
+              "1 teaspoon dried oregano",
+              "1 teaspoon ground cumin",
+              "1/2 teaspoon smoked paprika",
+              "Salt and black pepper, to taste"
+            ]
+          },
+          {
+            title: "For the Hot Honey Feta Cream:",
+            items: [
+              "1/2 cup Greek yogurt",
+              "1/4 cup crumbled feta cheese",
+              "1 tablespoon honey",
+              "1/4 teaspoon red chili flakes (adjust to taste)",
+              "1 teaspoon lemon juice",
+              "Pinch of salt"
+            ]
+          },
+          {
+            title: "For the Pitas:",
+            items: [
+              "4 pita breads",
+              "1 cup shredded lettuce",
+              "1/2 cup cherry tomatoes, halved",
+              "1/2 cup diced cucumber",
+              "1/4 cup thinly sliced red onion",
+              "Optional: fresh parsley or mint"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Cook the beef",
+            items: [
+              "Heat olive oil in a skillet over medium heat.",
+              "Add garlic and saute for 30 seconds until fragrant.",
+              "Add ground beef, oregano, cumin, smoked paprika, salt, and pepper.",
+              "Cook, breaking apart with a spoon, until browned and fully cooked, about 7-8 minutes.",
+              "Drain excess fat if needed."
+            ]
+          },
+          {
+            title: "Prepare the hot honey feta cream",
+            items: [
+              "In a small bowl, mix Greek yogurt, feta, honey, chili flakes, lemon juice, and a pinch of salt.",
+              "Stir until smooth and creamy."
+            ]
+          },
+          {
+            title: "Warm the pitas",
+            items: [
+              "Lightly toast or warm pita breads in a dry skillet or oven until soft and pliable."
+            ]
+          },
+          {
+            title: "Assemble",
+            items: [
+              "Fill each pita with cooked beef, lettuce, cherry tomatoes, cucumber, and red onion.",
+              "Drizzle generously with hot honey feta cream."
+            ]
+          },
+          {
+            title: "Serve",
+            items: [
+              "Garnish with fresh parsley or mint if desired.",
+              "Serve warm and enjoy immediately."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cook Time: 15 minutes", "Total Time: 25 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per pita, serves 4)",
+          items: ["Calories: 480 kcal", "Protein: 30 g", "Carbohydrates: 34 g", "Fat: 26 g", "Fiber: 4 g", "Sodium: 520 mg"]
+        }
+      }
+    }
+  },
+  {
+    slug: "hoisin-chili-ramen-veggie-slaw",
+    title: "Hoisin Chili Ramen Veggie Slaw",
+    image: "/recipes/hoisin-chili-ramen-veggie-slaw/images/hoisin-chili-ramen-veggie-slaw.jpg",
+    imageAlt: {
+      sv: "Krispig kålslaw med hoisin, chili och ramen",
+      en: "Crisp veggie slaw with hoisin chili ramen"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En frisk och färgstark kålslaw med hoisin, chili och ramen. Här får du sötma, hetta och umami i perfekt balans.",
+        ingredients: [
+          {
+            items: [
+              "2 cups strimlad kål",
+              "1 cup rivna morötter",
+              "1/2 cup röd paprika, tunt skivad",
+              "1/4 cup salladslök, hackad",
+              "1/2 cup kokta ramennudlar (avrunna och avsvalnade)",
+              "2 msk hoisinsås",
+              "1 msk chilipasta (justera efter smak)",
+              "1 msk risvinäger",
+              "1 msk sesamolja",
+              "1 tsk honung",
+              "1 tsk sesamfrön (valfritt)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda strimlad kål, morötter, paprika och salladslök i en stor skål.",
+              "Tillsätt de avsvalnade ramennudlarna och vänd runt.",
+              "Vispa ihop hoisinsås, chilipasta, risvinäger, sesamolja och honung i en liten skål tills dressingen är jämn.",
+              "Häll dressingen över salladen och blanda så allt täcks ordentligt.",
+              "Toppa med sesamfrön om du vill och servera direkt."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Total tid: 10 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 250 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A zesty, vibrant veggie slaw with hoisin chili ramen and a perfect sweet, spicy, savory balance.",
+        ingredients: [
+          {
+            items: [
+              "2 cups shredded cabbage",
+              "1 cup shredded carrots",
+              "1/2 cup red bell pepper, thinly sliced",
+              "1/4 cup green onions, chopped",
+              "1/2 cup cooked ramen noodles (drained and cooled)",
+              "2 tbsp hoisin sauce",
+              "1 tbsp chili paste (adjust for spice)",
+              "1 tbsp rice vinegar",
+              "1 tbsp sesame oil",
+              "1 tsp honey",
+              "1 tsp sesame seeds (optional)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large bowl, combine shredded cabbage, carrots, bell pepper, and green onions.",
+              "Add cooled ramen noodles to the veggies and toss to combine.",
+              "In a small bowl, whisk together hoisin sauce, chili paste, rice vinegar, sesame oil, and honey until smooth.",
+              "Pour the dressing over the veggie mixture and toss to coat evenly.",
+              "Garnish with sesame seeds, if desired, and serve immediately."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 250 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "caramelized-slow-roast-asian-beef-short-ribs",
+    title: "Caramelized Slow-Roast Asian Beef Short Ribs",
+    image: "/recipes/caramelized-slow-roast-asian-beef-short-ribs/images/caramelized-slow-roast-asian-beef-short-ribs.jpg",
+    imageAlt: {
+      sv: "Karamelliserade långrostade asiatiska short ribs",
+      en: "Caramelized slow-roast Asian beef short ribs"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "Möra short ribs med djup asiatisk smak av soja, hoisin, ingefära och honung. Långrostningen gör köttet saftigt och nästan fall-off-the-bone.",
+        ingredients: [
+          {
+            items: [
+              "1,35 kg beef short ribs",
+              "1 msk sesamolja",
+              "Salt och svartpeppar efter smak",
+              "4 vitlöksklyftor, finhackade",
+              "1 msk färsk ingefära, riven",
+              "1,2 dl soja med låg salthalt",
+              "0,8 dl hoisinsås",
+              "0,6 dl farinsocker",
+              "2 msk honung",
+              "2 msk risvinäger",
+              "1 msk ostronsås",
+              "1 tsk chiliflakes (valfritt)",
+              "2,4 dl köttbuljong",
+              "2 salladslökar, skivade (till garnering)",
+              "1 msk sesamfrön (till garnering)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Sätt ugnen på 150 C.",
+              "Torka short ribs torra och krydda lätt med salt och svartpeppar.",
+              "Hetta upp sesamolja i en stor ugnsfast gryta på medelhög värme. Bryn köttet runt om, 2-3 minuter per sida. Ta upp och lägg åt sidan.",
+              "Fräs vitlök och ingefära i samma gryta i 1 minut tills det doftar.",
+              "Rör ner soja, hoisinsås, farinsocker, honung, risvinäger, ostronsås, chiliflakes och köttbuljong. Låt sjuda lätt.",
+              "Lägg tillbaka short ribs i grytan så att de till största delen täcks av såsen.",
+              "Täck med lock och rosta i ugnen i 2 1/2 till 3 timmar tills köttet är mört och nästan faller från benet.",
+              "Ta av locket under de sista 30 minuterna så att såsen reduceras och karamelliseras.",
+              "För extra klibbig yta: skeda sås över köttet och kör under grillfunktion i 3-5 minuter tills ytan blir glansig och lätt karamelliserad.",
+              "Toppa med salladslök och sesamfrön före servering."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 20 minuter", "Tillagningstid: 3 timmar", "Total tid: 3 timmar 20 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 650 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "Tender, deeply flavored short ribs with soy, hoisin, ginger, and honey. Slow roasting makes the meat rich, juicy, and nearly fall-off-the-bone.",
+        ingredients: [
+          {
+            items: [
+              "3 lbs beef short ribs",
+              "1 tablespoon sesame oil",
+              "Salt and black pepper, to taste",
+              "4 cloves garlic, minced",
+              "1 tablespoon fresh ginger, grated",
+              "1/2 cup low-sodium soy sauce",
+              "1/3 cup hoisin sauce",
+              "1/4 cup brown sugar",
+              "2 tablespoons honey",
+              "2 tablespoons rice vinegar",
+              "1 tablespoon oyster sauce",
+              "1 teaspoon red pepper flakes (optional)",
+              "1 cup beef broth",
+              "2 green onions, sliced (for garnish)",
+              "1 tablespoon sesame seeds (for garnish)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Preheat oven to 300 F (150 C).",
+              "Pat the short ribs dry and season lightly with salt and black pepper.",
+              "Heat sesame oil in a large oven-safe Dutch oven over medium-high heat. Sear the ribs on all sides until browned, about 2-3 minutes per side. Remove and set aside.",
+              "In the same pot, saute garlic and ginger for 1 minute until fragrant.",
+              "Stir in soy sauce, hoisin sauce, brown sugar, honey, rice vinegar, oyster sauce, red pepper flakes, and beef broth. Bring to a gentle simmer.",
+              "Return the short ribs to the pot, ensuring they are mostly submerged in the sauce.",
+              "Cover and transfer to the oven. Roast for 2 1/2 to 3 hours, or until the meat is tender and nearly falling off the bone.",
+              "Remove the lid during the last 30 minutes of cooking to allow the sauce to reduce and caramelize.",
+              "For extra stickiness, spoon the sauce over the ribs and broil for 3-5 minutes until glossy and slightly charred.",
+              "Garnish with sliced green onions and sesame seeds before serving."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 20 minutes", "Cook Time: 3 hours", "Total Time: 3 hours 20 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 650 kcal", "Servings: 4"]
+        }
+      }
+    }
   }
 ];
