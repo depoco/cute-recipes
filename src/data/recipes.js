@@ -2012,5 +2012,1747 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "easy-crockpot-general-tsos-chicken",
+    title: "Easy Crockpot General Tso's Chicken",
+    image: "/recipes/easy-crockpot-general-tsos-chicken/images/easy-crockpot-general-tsos-chicken.jpg",
+    imageAlt: {
+      sv: "General Tso's kyckling i crockpot",
+      en: "Easy Crockpot General Tso's Chicken"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En enkel och smakrik crockpot-variant av General Tso's kyckling med söt, syrlig och lätt het sås.",
+        ingredients: [
+          {
+            items: [
+              "900 g kycklinglårfilé utan ben och skinn, skurna i bitar",
+              "Salt och svartpeppar efter smak",
+              "1,2 dl majsstärkelse",
+              "2 msk neutral olja",
+              "1,8 dl soja med låg salthalt",
+              "1,2 dl farinsocker",
+              "0,6 dl hoisinsås",
+              "2 msk risvinäger",
+              "2 msk ketchup",
+              "1 msk chili-vitlökssås",
+              "1 tsk färsk ingefära, riven",
+              "3 vitlöksklyftor, finhackade",
+              "1,2 dl kycklingbuljong",
+              "1 tsk sesamolja",
+              "2 salladslökar, skivade (till garnering)",
+              "1 msk sesamfrön (till garnering)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Krydda kycklingbitarna lätt med salt och svartpeppar, och vänd dem sedan i majsstärkelse tills de är jämnt täckta.",
+              "Hetta upp olja i en stekpanna på medelhög värme och bryn kycklingen lätt i 2-3 minuter per sida. (Kan hoppas över för snabbare tillagning.)",
+              "Lägg över kycklingen i crockpot.",
+              "Vispa ihop soja, farinsocker, hoisinsås, risvinäger, ketchup, chili-vitlökssås, ingefära, vitlök och kycklingbuljong i en skål.",
+              "Häll såsen över kycklingen och rör försiktigt runt.",
+              "Tillaga med lock på LOW i 4-5 timmar eller HIGH i 2-3 timmar tills kycklingen är mör och genomlagad.",
+              "Rör ner sesamolja under de sista 10 minuterna.",
+              "Om du vill ha tjockare sås: ta av locket och kör på HIGH i ytterligare 15-20 minuter så såsen reduceras.",
+              "Toppa med salladslök och sesamfrön före servering."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 15 minuter", "Tillagningstid: 4 timmar", "Total tid: 4 timmar 15 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 490 kcal", "Portioner: 6"]
+        }
+      },
+      en: {
+        intro: "An easy, flavor-packed crockpot version of General Tso's chicken with a sweet, tangy, and lightly spicy sauce.",
+        ingredients: [
+          {
+            items: [
+              "2 lbs boneless, skinless chicken thighs, cut into bite-sized pieces",
+              "Salt and black pepper, to taste",
+              "1/2 cup cornstarch",
+              "2 tablespoons vegetable oil",
+              "3/4 cup low-sodium soy sauce",
+              "1/2 cup brown sugar",
+              "1/4 cup hoisin sauce",
+              "2 tablespoons rice vinegar",
+              "2 tablespoons ketchup",
+              "1 tablespoon chili garlic sauce",
+              "1 teaspoon fresh ginger, grated",
+              "3 cloves garlic, minced",
+              "1/2 cup chicken broth",
+              "1 teaspoon sesame oil",
+              "2 green onions, sliced (for garnish)",
+              "1 tablespoon sesame seeds (for garnish)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Season the chicken pieces lightly with salt and black pepper, then toss in cornstarch until evenly coated.",
+              "Heat vegetable oil in a skillet over medium-high heat and lightly brown the chicken pieces for 2-3 minutes per side. (This step adds extra flavor but can be skipped for convenience.)",
+              "Transfer the chicken to the crockpot.",
+              "In a bowl, whisk together soy sauce, brown sugar, hoisin sauce, rice vinegar, ketchup, chili garlic sauce, grated ginger, minced garlic, and chicken broth.",
+              "Pour the sauce over the chicken and gently stir to combine.",
+              "Cover and cook on LOW for 4-5 hours or HIGH for 2-3 hours, until the chicken is tender and cooked through.",
+              "Stir in sesame oil during the last 10 minutes of cooking.",
+              "If a thicker sauce is desired, remove the lid and cook on HIGH for an additional 15-20 minutes until slightly reduced.",
+              "Garnish with sliced green onions and sesame seeds before serving."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 15 minutes", "Cook Time: 4 hours", "Total Time: 4 hours 15 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 490 kcal", "Servings: 6"]
+        }
+      }
+    }
+  },
+  {
+    slug: "mango-chili-garlic-chicken",
+    title: "Mango Chili Garlic Chicken",
+    image: "/recipes/mango-chili-garlic-chicken/images/mango-chili-garlic-chicken.jpg",
+    imageAlt: {
+      sv: "Mango chili garlic chicken",
+      en: "Mango Chili Garlic Chicken"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "Saftig kyckling med klibbig mangoglaze med chili och vitlök - söt, het och full av smak.",
+        ingredients: [
+          {
+            items: [
+              "900 g kycklinglårfilé eller kycklingbröst utan ben och skinn",
+              "Salt och svartpeppar efter smak",
+              "1 msk olivolja",
+              "3 vitlöksklyftor, finhackade",
+              "1 msk färsk ingefära, riven",
+              "2,4 dl mangopuré (färsk eller på burk)",
+              "2 msk honung",
+              "2 msk soja",
+              "1 msk risvinäger eller limesaft",
+              "1-2 msk chili-vitlökssås (justera efter smak)",
+              "1/2 tsk chiliflakes (valfritt)",
+              "1 msk majsstärkelse",
+              "2 msk vatten",
+              "2 salladslökar, skivade (till garnering)",
+              "1 msk sesamfrön (till garnering)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Krydda kycklingen med salt och svartpeppar på båda sidor.",
+              "Hetta upp olivolja i en stor stekpanna på medelhög värme. Bryn kycklingen 4-5 minuter per sida tills den fått fin färg och nästan är genomstekt. Ta upp och lägg åt sidan.",
+              "Fräs vitlök och ingefära i samma panna i cirka 30 sekunder tills det doftar.",
+              "Rör ner mangopuré, honung, soja, risvinäger eller limesaft, chili-vitlökssås och chiliflakes. Låt sjuda lätt.",
+              "Blanda majsstärkelse och vatten till en redning i en liten skål. Rör ner i såsen och låt sjuda tills den tjocknar och blir glansig.",
+              "Lägg tillbaka kycklingen i pannan och skeda såsen över.",
+              "Låt sjuda 5-7 minuter tills kycklingen är helt genomstekt och täckt av den klibbiga såsen.",
+              "Toppa med salladslök och sesamfrön före servering."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 15 minuter", "Tillagningstid: 25 minuter", "Total tid: 40 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 430 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "Tender chicken coated in a sticky mango chili garlic glaze - sweet, spicy, and deeply savory.",
+        ingredients: [
+          {
+            items: [
+              "2 lbs boneless, skinless chicken thighs or breasts",
+              "Salt and black pepper, to taste",
+              "1 tablespoon olive oil",
+              "3 cloves garlic, minced",
+              "1 tablespoon fresh ginger, grated",
+              "1 cup mango puree (fresh or canned)",
+              "2 tablespoons honey",
+              "2 tablespoons soy sauce",
+              "1 tablespoon rice vinegar or lime juice",
+              "1-2 tablespoons chili garlic sauce (adjust to taste)",
+              "1/2 teaspoon red pepper flakes (optional)",
+              "1 tablespoon cornstarch",
+              "2 tablespoons water",
+              "2 green onions, sliced (for garnish)",
+              "1 tablespoon sesame seeds (for garnish)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Season the chicken with salt and black pepper on both sides.",
+              "Heat olive oil in a large skillet over medium-high heat. Sear the chicken for 4-5 minutes per side until golden brown and nearly cooked through. Remove and set aside.",
+              "In the same skillet, saute minced garlic and grated ginger for 30 seconds until fragrant.",
+              "Stir in mango puree, honey, soy sauce, rice vinegar or lime juice, chili garlic sauce, and red pepper flakes. Bring to a gentle simmer.",
+              "In a small bowl, mix cornstarch and water to create a slurry. Stir into the sauce and simmer until thickened and glossy.",
+              "Return the chicken to the skillet and spoon the mango chili glaze over the top.",
+              "Simmer for 5-7 minutes, or until the chicken is fully cooked and coated in the sticky sauce.",
+              "Garnish with sliced green onions and sesame seeds before serving."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 15 minutes", "Cook Time: 25 minutes", "Total Time: 40 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 430 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "honey-chili-apple-crunch-slaw",
+    title: "Honey Chili Apple Crunch Slaw",
+    image: "/recipes/honey-chili-apple-crunch-slaw/images/honey-chili-apple-crunch-slaw.jpg",
+    imageAlt: {
+      sv: "Krispig kålslaw med äpple, honung och chili",
+      en: "Honey chili apple crunch slaw"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En sötstark twist på klassisk coleslaw med krispiga äpplen, kål och en syrlig dressing med honung och chili. Perfekt till sommarens grill eller picknick.",
+        ingredients: [
+          {
+            items: [
+              "2 stora äpplen, strimlade eller tunt skivade",
+              "2 cups strimlad kål (grön eller rödkål)",
+              "1/2 röd paprika, tunt skivad",
+              "1/4 cup salladslök, hackad",
+              "1 msk sesamfrön (valfritt, till garnering)"
+            ]
+          },
+          {
+            title: "Till honey chili-dressingen:",
+            items: [
+              "2 msk honung",
+              "1 msk äppelcidervinäger",
+              "1 tsk soja (eller tamari för glutenfritt)",
+              "1 tsk chiliflakes (justera efter smak)",
+              "1 msk sesamolja",
+              "1 tsk dijonsenap",
+              "Salt och svartpeppar efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda strimlad kål, äpple, paprika och salladslök i en stor skål.",
+              "Vispa ihop honung, äppelcidervinäger, soja, chiliflakes, sesamolja, dijonsenap, salt och peppar i en liten skål.",
+              "Häll dressingen över slawen och vänd runt ordentligt så allt täcks jämnt.",
+              "Toppa med sesamfrön om du vill och servera direkt för maximal krispighet."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Total tid: 10 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 150 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A sweet and spicy twist on classic slaw with crisp apples, crunchy cabbage, and a tangy honey chili dressing.",
+        ingredients: [
+          {
+            items: [
+              "2 large apples, julienned or thinly sliced",
+              "2 cups shredded cabbage (green or purple)",
+              "1/2 red bell pepper, thinly sliced",
+              "1/4 cup green onions, chopped",
+              "1 tablespoon sesame seeds (optional for garnish)"
+            ]
+          },
+          {
+            title: "For the Honey Chili Dressing:",
+            items: [
+              "2 tablespoons honey",
+              "1 tablespoon apple cider vinegar",
+              "1 teaspoon soy sauce (or tamari for gluten-free)",
+              "1 teaspoon chili flakes (adjust to taste)",
+              "1 tablespoon sesame oil",
+              "1 teaspoon Dijon mustard",
+              "Salt and pepper to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large bowl, combine shredded cabbage, sliced apples, red bell pepper, and green onions.",
+              "In a small bowl, whisk together honey, apple cider vinegar, soy sauce, chili flakes, sesame oil, Dijon mustard, salt, and pepper.",
+              "Pour the dressing over the slaw mixture and toss well until everything is evenly coated.",
+              "Garnish with sesame seeds if desired and serve immediately."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 150 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "bang-bang-shrimp-pasta",
+    title: "Bang Bang Shrimp Pasta",
+    image: "/recipes/bang-bang-shrimp-pasta/images/bang-bang-shrimp-pasta.jpg",
+    imageAlt: {
+      sv: "Bang bang shrimp pasta",
+      en: "Bang bang shrimp pasta"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En krämig och lätt het pastarätt med saftiga räkor och bang bang-sås. Snabb vardagsmiddag på cirka 20 minuter.",
+        ingredients: [
+          {
+            title: "Räkor och pasta:",
+            items: [
+              "225 g spaghetti",
+              "450 g stora räkor, skalade och rensade",
+              "1 tsk paprikapulver",
+              "1/2 tsk salt",
+              "1/2 tsk svartpeppar",
+              "2 msk osaltat smör",
+              "1 vitlöksklyfta, finhackad"
+            ]
+          },
+          {
+            title: "Bang bang-sås:",
+            items: [
+              "0,8 dl majonnäs",
+              "0,6 dl vispgrädde",
+              "0,8 dl sweet chilisås",
+              "1 msk honung",
+              "1 msk sriracha",
+              "1/4 tsk salt"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Vispa ihop majonnäs, grädde, sweet chilisås, honung, sriracha och salt i en skål. Ställ åt sidan.",
+              "Koka spaghettin enligt anvisningarna på förpackningen. Häll av vattnet och ställ åt sidan.",
+              "Krydda räkorna med paprikapulver, salt och svartpeppar i en stor skål.",
+              "Smält smör i en stor stekpanna på medelhög värme. Fräs vitlök i 30 sekunder och tillsätt sedan räkorna. Stek 4-6 minuter tills de är rosa och precis klara.",
+              "Ta upp räkorna. Sänk värmen till medel-låg och häll i såsen. Värm i cirka 1 minut under vispning.",
+              "Lägg tillbaka räkorna och tillsätt pastan. Vänd runt tills allt är jämnt täckt av såsen."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Tillagningstid: 10 minuter", "Total tid: 20 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 582 kcal", "Kolhydrater: 59 g", "Protein: 24 g", "Fett: 27 g", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A creamy, sweet-spicy pasta with juicy shrimp and classic bang bang sauce. A quick 20-minute dinner.",
+        ingredients: [
+          {
+            title: "Shrimp and Pasta:",
+            items: [
+              "8 ounces dry spaghetti",
+              "1 pound large shrimp, peeled and deveined",
+              "1 teaspoon paprika",
+              "1/2 teaspoon salt",
+              "1/2 teaspoon pepper",
+              "2 tablespoons unsalted butter",
+              "1 clove garlic, minced"
+            ]
+          },
+          {
+            title: "Sauce:",
+            items: [
+              "1/3 cup mayonnaise",
+              "1/4 cup heavy cream",
+              "1/3 cup sweet chili sauce",
+              "1 tablespoon honey",
+              "1 tablespoon Sriracha sauce",
+              "1/4 teaspoon salt"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a medium bowl, whisk together mayonnaise, heavy cream, sweet chili sauce, honey, Sriracha, and salt. Set aside.",
+              "Cook spaghetti according to package directions. Drain and set aside.",
+              "Season shrimp with paprika, salt, and pepper.",
+              "Heat butter in a large skillet over medium-high heat. Add garlic and cook for 30 seconds, then add shrimp and cook 4-6 minutes until pink.",
+              "Remove shrimp. Reduce heat to medium-low, add the sauce, and heat for 1 minute while whisking continuously.",
+              "Add cooked shrimp and pasta, then toss to coat in the sauce."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cook Time: 10 minutes", "Total Time: 20 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 582 kcal", "Carbohydrates: 59 g", "Protein: 24 g", "Fat: 27 g", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "honey-mustard-apple-tuna-salad",
+    title: "Honey Mustard Apple Tuna Salad",
+    image: "/recipes/honey-mustard-apple-tuna-salad/images/honey-mustard-apple-tuna-salad.jpg",
+    imageAlt: {
+      sv: "Tonfisksallad med äpple, honung och dijon",
+      en: "Honey mustard apple tuna salad"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En lätt och fräsch tonfisksallad med krispigt äpple och en krämig dressing med honung och dijon.",
+        ingredients: [
+          {
+            items: [
+              "1 burk tonfisk i vatten, avrunnen och flingad",
+              "1 medelstort äpple, tärnat",
+              "0,6 dl selleri, hackad",
+              "0,6 dl rödlök, finhackad",
+              "0,6 dl grekisk yoghurt",
+              "2 msk honung",
+              "1 msk dijonsenap",
+              "1 tsk citronsaft",
+              "Salt och svartpeppar efter smak",
+              "Färsk persilja till garnering (valfritt)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda tonfisk, äpple, selleri och rödlök i en stor skål.",
+              "Vispa ihop grekisk yoghurt, honung, dijonsenap, citronsaft, salt och peppar i en liten skål.",
+              "Häll dressingen över tonfiskblandningen och rör om tills allt är jämnt täckt.",
+              "Toppa med färsk persilja om du vill.",
+              "Servera direkt på en bädd av grönt eller som fyllning i en sandwich."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Total tid: 10 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 250 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A light and flavorful tuna salad with crisp apple and a creamy honey mustard dressing.",
+        ingredients: [
+          {
+            items: [
+              "1 can tuna in water, drained and flaked",
+              "1 medium apple, diced",
+              "1/4 cup celery, chopped",
+              "1/4 cup red onion, finely chopped",
+              "1/4 cup plain Greek yogurt",
+              "2 tbsp honey",
+              "1 tbsp Dijon mustard",
+              "1 tsp lemon juice",
+              "Salt and pepper to taste",
+              "Fresh parsley for garnish (optional)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large bowl, combine the flaked tuna, diced apple, chopped celery, and red onion.",
+              "In a small bowl, whisk together Greek yogurt, honey, Dijon mustard, lemon juice, salt, and pepper to make the dressing.",
+              "Pour the dressing over the tuna mixture and stir until everything is well coated.",
+              "Garnish with fresh parsley if desired.",
+              "Serve immediately on a bed of greens or as a sandwich filling."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 250 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "kiwi-strawberry-lime-herb-fruit-salad",
+    title: "Kiwi Strawberry Lime Herb Fruit Salad",
+    image: "/recipes/kiwi-strawberry-lime-herb-fruit-salad/images/kiwi-strawberry-lime-herb-fruit-salad.jpg",
+    imageAlt: {
+      sv: "Fruktsallad med kiwi, jordgubbar, lime och färska örter",
+      en: "Kiwi strawberry lime herb fruit salad"
+    },
+    tags: ["dessert"],
+    content: {
+      sv: {
+        intro: "En frisk och färgstark fruktsallad med kiwi, jordgubbar, lime och färska örter. Perfekt när du vill ha något lätt, sött och uppfriskande.",
+        ingredients: [
+          {
+            items: [
+              "3 mogna kiwis, skalade och skivade",
+              "1 1/2 cups jordgubbar, rensade och skivade",
+              "1/2 cup färska myntablad, hackade",
+              "1/2 cup färska basilikablad, hackade",
+              "1 msk honung",
+              "1 msk limesaft",
+              "Finrivet skal från 1 lime",
+              "1/4 cup granatäppelkärnor (valfritt)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda kiwi och jordgubbar i en stor skål.",
+              "Tillsätt hackad mynta och basilika.",
+              "Vispa ihop honung, limesaft och limeskal i en liten skål.",
+              "Ringla dressingen över frukten och vänd försiktigt runt.",
+              "Toppa med granatäppelkärnor för extra färg och textur om du vill.",
+              "Låt stå i kyl 15-20 minuter före servering för extra fräschör."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Kylning: 15 minuter", "Total tid: 25 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 120 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A refreshing, tangy-sweet fruit salad with kiwi, strawberries, lime, and fresh herbs.",
+        ingredients: [
+          {
+            items: [
+              "3 ripe kiwis, peeled and sliced",
+              "1 1/2 cups strawberries, hulled and sliced",
+              "1/2 cup fresh mint leaves, chopped",
+              "1/2 cup fresh basil leaves, chopped",
+              "1 tbsp honey",
+              "1 tbsp lime juice",
+              "Zest of 1 lime",
+              "1/4 cup pomegranate seeds (optional)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large bowl, combine the sliced kiwi and strawberries.",
+              "Add the chopped mint and basil to the fruit mixture.",
+              "In a small bowl, whisk together honey, lime juice, and lime zest.",
+              "Drizzle the dressing over the fruit and toss gently to combine.",
+              "Garnish with pomegranate seeds for extra color and texture, if desired.",
+              "Chill for 15-20 minutes before serving for extra freshness."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Chill Time: 15 minutes", "Total Time: 25 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 120 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "ramen-salad",
+    title: "Ramen Salad",
+    image: "/recipes/ramen-salad/images/ramen-salad.jpg",
+    imageAlt: {
+      sv: "Krispig ramensallad",
+      en: "Ramen salad"
+    },
+    tags: ["starter"],
+    content: {
+      sv: {
+        intro: "En snabb, krispig och fräsch ramensallad med massor av textur. Perfekt som tillbehör eller lätt måltid.",
+        ingredients: [
+          {
+            items: [
+              "2 paket snabbnudlar ramen (kryddpåsar tas bort)",
+              "1 cup strimlad kål",
+              "1/2 cup rivna morötter",
+              "1/4 cup salladslök, hackad",
+              "1/4 cup rostade mandlar",
+              "1/4 cup solroskärnor",
+              "1 msk sesamolja",
+              "2 msk soja",
+              "1 msk risvinäger",
+              "1 msk honung",
+              "1 tsk sesamfrön (valfritt)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Koka ramennudlarna enligt anvisningarna på förpackningen, häll av och låt svalna.",
+              "Blanda kål, morötter, salladslök, mandlar och solroskärnor i en stor skål.",
+              "Vispa ihop sesamolja, soja, risvinäger, honung och sesamfrön i en liten skål.",
+              "Vänd ner de avsvalnade nudlarna med grönsakerna och häll över dressingen.",
+              "Blanda allt försiktigt och servera direkt, eller kyl 10-15 minuter för mer smak."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Total tid: 10 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 250 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A quick, crunchy, and refreshing ramen salad loaded with texture and flavor.",
+        ingredients: [
+          {
+            items: [
+              "2 packs instant ramen noodles (discard seasoning)",
+              "1 cup shredded cabbage",
+              "1/2 cup shredded carrots",
+              "1/4 cup green onions, chopped",
+              "1/4 cup toasted almonds",
+              "1/4 cup sunflower seeds",
+              "1 tbsp sesame oil",
+              "2 tbsp soy sauce",
+              "1 tbsp rice vinegar",
+              "1 tbsp honey",
+              "1 tsp sesame seeds (optional)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Cook ramen noodles according to package instructions, then drain and let cool.",
+              "In a large bowl, combine shredded cabbage, carrots, green onions, almonds, and sunflower seeds.",
+              "In a small bowl, whisk together sesame oil, soy sauce, rice vinegar, honey, and sesame seeds.",
+              "Toss the cooled ramen noodles with the veggies and pour the dressing over the top.",
+              "Toss everything together and serve immediately, or chill for 10-15 minutes for extra flavor."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 250 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "smashed-cucumber-salad-edamame",
+    title: "Smashed Cucumber Salad with Edamame",
+    image: "/recipes/smashed-cucumber-salad-edamame/images/smashed-cucumber-salad-edamame.jpg",
+    imageAlt: {
+      sv: "Krossad gurksallad med edamame",
+      en: "Smashed cucumber salad with edamame"
+    },
+    tags: ["starter"],
+    content: {
+      sv: {
+        intro: "Frisk, krispig och proteinrik sallad med krossad gurka och edamame. Perfekt som lätt tillbehör eller snabbt mellanmål.",
+        ingredients: [
+          {
+            items: [
+              "2 stora gurkor, krossade och skurna i bitar",
+              "2,4 dl skalade edamamebönor (tillagade)",
+              "0,6 dl risvinäger",
+              "1 msk sesamolja",
+              "1 msk soja",
+              "1 tsk honung",
+              "1/2 tsk chiliflakes (valfritt)",
+              "1 msk rostade sesamfrön",
+              "2 msk hackad koriander",
+              "Salt efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Krossa gurkorna med sidan av en kniv eller en kavel och skär dem i munsbitar.",
+              "Blanda gurka och tillagade edamamebönor i en stor skål.",
+              "Vispa ihop risvinäger, sesamolja, soja, honung och chiliflakes i en liten skål.",
+              "Häll dressingen över salladen och vänd runt.",
+              "Toppa med rostade sesamfrön och färsk koriander.",
+              "Servera direkt, eller kyl i 10 minuter för extra krispighet."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Total tid: 10 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 150 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "Refreshing, crunchy, and protein-packed cucumber salad with edamame. Great as a light side or energizing snack.",
+        ingredients: [
+          {
+            items: [
+              "2 large cucumbers, smashed and cut into bite-sized pieces",
+              "1 cup shelled edamame (cooked)",
+              "1/4 cup rice vinegar",
+              "1 tbsp sesame oil",
+              "1 tbsp soy sauce",
+              "1 tsp honey",
+              "1/2 tsp chili flakes (optional)",
+              "1 tbsp toasted sesame seeds",
+              "2 tbsp chopped cilantro",
+              "Salt to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Smash the cucumbers using the side of a knife or rolling pin, then cut them into bite-sized pieces.",
+              "In a large bowl, combine the smashed cucumbers with cooked edamame.",
+              "In a small bowl, whisk together rice vinegar, sesame oil, soy sauce, honey, and chili flakes (if using).",
+              "Pour the dressing over the cucumber and edamame mixture, then toss to combine.",
+              "Garnish with toasted sesame seeds and fresh cilantro.",
+              "Serve immediately or chill for 10 minutes for extra crispness."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 150 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "sweet-chili-almond-vinaigrette",
+    title: "Sweet Chili Almond Vinaigrette",
+    image: "/recipes/sweet-chili-almond-vinaigrette/images/sweet-chili-almond-vinaigrette.jpg",
+    imageAlt: {
+      sv: "Sweet chili-vinägrett med mandel",
+      en: "Sweet chili almond vinaigrette"
+    },
+    tags: ["sauce"],
+    content: {
+      sv: {
+        intro: "En söt, het och nötig vinägrett som ger extra smak till sallader, rostade grönsaker och grillat.",
+        ingredients: [
+          {
+            items: [
+              "2 msk mandelsmör",
+              "2 msk sweet chilisås",
+              "1 msk risvinäger",
+              "1 msk soja",
+              "1 msk honung",
+              "1 tsk sesamolja",
+              "1 tsk färskpressad limejuice",
+              "1/4 tsk vitlökspulver",
+              "Salt och svartpeppar efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Vispa ihop mandelsmör, sweet chilisås, risvinäger, soja, honung, sesamolja, limejuice och vitlökspulver i en liten skål tills slät.",
+              "Smaka av med salt och peppar.",
+              "Ringla över sallad, rostade grönsaker eller använd som dip till grillad kyckling eller räkor."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 5 minuter", "Total tid: 5 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 120 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A sweet, spicy, and nutty vinaigrette that adds a delicious kick to salads, roasted veggies, and grilled dishes.",
+        ingredients: [
+          {
+            items: [
+              "2 tbsp almond butter",
+              "2 tbsp sweet chili sauce",
+              "1 tbsp rice vinegar",
+              "1 tbsp soy sauce",
+              "1 tbsp honey",
+              "1 tsp sesame oil",
+              "1 tsp fresh lime juice",
+              "1/4 tsp garlic powder",
+              "Salt and pepper to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a small bowl, whisk together almond butter, sweet chili sauce, rice vinegar, soy sauce, honey, sesame oil, lime juice, and garlic powder until smooth.",
+              "Taste and adjust with salt and pepper as needed.",
+              "Drizzle over salads, roasted veggies, or use as a dipping sauce for grilled chicken or shrimp."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 5 minutes", "Total Time: 5 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 120 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "healthy-tuna-waldorf-salad",
+    title: "Healthy Tuna Waldorf Salad",
+    image: "/recipes/healthy-tuna-waldorf-salad/images/healthy-tuna-waldorf-salad.jpg",
+    imageAlt: {
+      sv: "Hälsosam tuna waldorf-sallad",
+      en: "Healthy tuna waldorf salad"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En fräsch och krispig tonfisksallad med äpple, druvor och valnötter. Proteinrik, lätt och perfekt till lunch.",
+        ingredients: [
+          {
+            items: [
+              "2 burkar tonfisk i vatten, avrunnen",
+              "1 äpple, tärnat",
+              "1/2 cup selleri, hackad",
+              "1/2 cup druvor, halverade",
+              "1/4 cup valnötter, hackade",
+              "1/4 cup grekisk yoghurt",
+              "1 msk dijonsenap",
+              "1 msk citronsaft",
+              "Salt och svartpeppar efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda tonfisk, äpple, selleri, druvor och valnötter i en stor skål.",
+              "Vispa ihop grekisk yoghurt, dijonsenap och citronsaft i en liten skål.",
+              "Häll dressingen över salladen och vänd runt tills allt är jämnt täckt.",
+              "Smaka av med salt och svartpeppar.",
+              "Låt stå i kyl i 20 minuter före servering för en extra frisk sallad."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Kylning: 20 minuter", "Total tid: 30 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 280 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "Fresh, crunchy, and full of flavor, this tuna Waldorf salad is packed with protein and nutrients.",
+        ingredients: [
+          {
+            items: [
+              "2 cans tuna (packed in water), drained",
+              "1 apple, diced",
+              "1/2 cup celery, chopped",
+              "1/2 cup grapes, halved",
+              "1/4 cup walnuts, chopped",
+              "1/4 cup plain Greek yogurt",
+              "1 tbsp Dijon mustard",
+              "1 tbsp lemon juice",
+              "Salt and pepper to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large bowl, combine the tuna, apple, celery, grapes, and walnuts.",
+              "In a small bowl, whisk together the Greek yogurt, Dijon mustard, and lemon juice.",
+              "Pour the yogurt dressing over the salad mixture, and toss until everything is well-coated.",
+              "Season with salt and pepper to taste.",
+              "Chill in the refrigerator for 20 minutes before serving."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Chill Time: 20 minutes", "Total Time: 30 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 280 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "mediterranean-chickpea-salad",
+    title: "Mediterranean Chickpea Salad",
+    image: "/recipes/mediterranean-chickpea-salad/images/mediterranean-chickpea-salad.jpg",
+    imageAlt: {
+      sv: "Medelhavsinspirerad kikärtssallad",
+      en: "Mediterranean chickpea salad"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En fräsch och färgstark sallad med kikärtor, krispiga grönsaker och citronfräsch dressing. Perfekt som lätt men mättande måltid.",
+        ingredients: [
+          {
+            items: [
+              "2 burkar (ca 400 g styck) kikärtor, avrunna och sköljda",
+              "1 gurka, tärnad",
+              "1/2 cup körsbärstomater, halverade",
+              "1/4 rödlök, finhackad",
+              "1/4 cup kalamataoliver, urkärnade och hackade",
+              "1/4 cup fetaost, smulad",
+              "2 msk färsk persilja, hackad"
+            ]
+          },
+          {
+            title: "Till dressingen:",
+            items: [
+              "3 msk olivolja",
+              "1 msk rödvinsvinäger",
+              "1 msk citronsaft",
+              "1 tsk torkad oregano",
+              "Salt och svartpeppar efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda kikärtor, gurka, körsbärstomater, rödlök, oliver, fetaost och persilja i en stor skål.",
+              "Vispa ihop olivolja, rödvinsvinäger, citronsaft, oregano, salt och peppar i en liten skål.",
+              "Häll dressingen över salladen och vänd runt tills allt är jämnt täckt.",
+              "Servera direkt, eller låt stå i kyl i 30 minuter så smakerna hinner sätta sig."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Total tid: 10 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 250 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A refreshing, vibrant salad packed with chickpeas, crunchy veggies, and a zesty lemon dressing.",
+        ingredients: [
+          {
+            items: [
+              "2 cans (15 oz) chickpeas, drained and rinsed",
+              "1 cucumber, diced",
+              "1/2 cup cherry tomatoes, halved",
+              "1/4 red onion, finely chopped",
+              "1/4 cup Kalamata olives, pitted and chopped",
+              "1/4 cup feta cheese, crumbled",
+              "2 tbsp fresh parsley, chopped"
+            ]
+          },
+          {
+            title: "For the Dressing:",
+            items: [
+              "3 tbsp olive oil",
+              "1 tbsp red wine vinegar",
+              "1 tbsp lemon juice",
+              "1 tsp dried oregano",
+              "Salt and pepper to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large bowl, combine chickpeas, cucumber, cherry tomatoes, red onion, olives, feta, and parsley.",
+              "In a small bowl, whisk together olive oil, red wine vinegar, lemon juice, oregano, salt, and pepper.",
+              "Drizzle the dressing over the salad and toss until evenly coated.",
+              "Serve immediately or chill for 30 minutes for the flavors to meld."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 250 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "roasted-sweet-potato-chickpea-mediterranean-salad",
+    title: "Roasted Sweet Potato & Chickpea Mediterranean Salad",
+    image: "/recipes/roasted-sweet-potato-chickpea-mediterranean-salad/images/roasted-sweet-potato-chickpea-mediterranean-salad.jpg",
+    imageAlt: {
+      sv: "Rostad medelhavssallad med sötpotatis och kikärtor",
+      en: "Roasted sweet potato and chickpea Mediterranean salad"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En matig och varm sallad med rostad sötpotatis, krispiga kikärtor och fräscha medelhavssmaker.",
+        ingredients: [
+          {
+            items: [
+              "2 medelstora sötpotatisar, skalade och tärnade",
+              "1 burk (ca 400 g) kikärtor, avrunna och sköljda",
+              "2 msk olivolja",
+              "1 tsk spiskummin",
+              "1 tsk rökt paprika",
+              "Salt och svartpeppar efter smak",
+              "1/2 cup körsbärstomater, halverade",
+              "1/4 cup rödlök, finhackad",
+              "1/4 cup kalamataoliver, hackade",
+              "1/4 cup fetaost, smulad",
+              "2 msk färsk persilja, hackad"
+            ]
+          },
+          {
+            title: "Till dressingen:",
+            items: [
+              "3 msk olivolja",
+              "1 msk rödvinsvinäger",
+              "1 msk citronsaft",
+              "1 tsk torkad oregano",
+              "Salt och svartpeppar efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Sätt ugnen på 200 C.",
+              "Blanda sötpotatis och kikärtor med olivolja, spiskummin, rökt paprika, salt och peppar. Fördela i ett lager på en plåt.",
+              "Rosta i 25-30 minuter, rör om halvvägs, tills sötpotatisen är mjuk och kikärtorna krispiga.",
+              "Blanda rostad sötpotatis och kikärtor med körsbärstomater, rödlök, oliver, fetaost och persilja i en stor skål.",
+              "Vispa ihop olivolja, rödvinsvinäger, citronsaft, oregano, salt och peppar till dressingen.",
+              "Ringla dressingen över salladen och vänd runt försiktigt.",
+              "Servera varm eller rumstempererad."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Tillagningstid: 30 minuter", "Total tid: 40 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 350 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A hearty warm salad with roasted sweet potatoes, crispy chickpeas, and fresh Mediterranean flavors.",
+        ingredients: [
+          {
+            items: [
+              "2 medium sweet potatoes, peeled and cubed",
+              "1 can (15 oz) chickpeas, drained and rinsed",
+              "2 tbsp olive oil",
+              "1 tsp cumin",
+              "1 tsp smoked paprika",
+              "Salt and pepper to taste",
+              "1/2 cup cherry tomatoes, halved",
+              "1/4 cup red onion, finely chopped",
+              "1/4 cup Kalamata olives, chopped",
+              "1/4 cup feta cheese, crumbled",
+              "2 tbsp fresh parsley, chopped"
+            ]
+          },
+          {
+            title: "For the Dressing:",
+            items: [
+              "3 tbsp olive oil",
+              "1 tbsp red wine vinegar",
+              "1 tbsp lemon juice",
+              "1 tsp dried oregano",
+              "Salt and pepper to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Preheat the oven to 400 F (200 C).",
+              "Toss sweet potato cubes and chickpeas with olive oil, cumin, smoked paprika, salt, and pepper. Spread in a single layer on a baking sheet.",
+              "Roast for 25-30 minutes, stirring halfway through, until sweet potatoes are tender and chickpeas are crispy.",
+              "In a large bowl, combine roasted sweet potatoes and chickpeas with cherry tomatoes, red onion, olives, feta, and parsley.",
+              "In a small bowl, whisk together olive oil, red wine vinegar, lemon juice, oregano, salt, and pepper.",
+              "Drizzle the dressing over the salad and toss gently to combine.",
+              "Serve warm or at room temperature."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cook Time: 30 minutes", "Total Time: 40 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 350 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "sweet-spicy-mango-salad-dressing",
+    title: "Sweet and Spicy Mango Salad Dressing",
+    image: "/recipes/sweet-spicy-mango-salad-dressing/images/sweet-spicy-mango-salad-dressing.jpg",
+    imageAlt: {
+      sv: "Sötstark mangodressing",
+      en: "Sweet and spicy mango salad dressing"
+    },
+    tags: ["sauce"],
+    content: {
+      sv: {
+        intro: "En färgstark och syrlig dressing med söt mango och ett härligt sting av chili. Perfekt över sallader och bowls.",
+        ingredients: [
+          {
+            items: [
+              "1 mogen mango, skalad och hackad",
+              "2 msk honung",
+              "2 msk risvinäger",
+              "1 msk soja",
+              "1 tsk sriracha (justera efter hetta)",
+              "1 msk limesaft",
+              "0,6 dl olivolja",
+              "Salt efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Mixa mango, honung, risvinäger, soja, sriracha och limesaft i en blender eller matberedare tills slätt.",
+              "Tillsätt olivoljan långsamt under mixning tills dressingen emulgerar.",
+              "Smaka av med salt.",
+              "Ringla över sallader, grillade grönsaker eller använd som dip till färska vårrullar."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 5 minuter", "Total tid: 5 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 100 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A vibrant, tangy dressing with sweet mango and a spicy kick, perfect for salads and bowls.",
+        ingredients: [
+          {
+            items: [
+              "1 ripe mango, peeled and chopped",
+              "2 tbsp honey",
+              "2 tbsp rice vinegar",
+              "1 tbsp soy sauce",
+              "1 tsp sriracha sauce (adjust for spice)",
+              "1 tbsp lime juice",
+              "1/4 cup olive oil",
+              "Salt to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a blender or food processor, combine mango, honey, rice vinegar, soy sauce, sriracha, and lime juice. Blend until smooth.",
+              "While blending, slowly drizzle in olive oil until the dressing is emulsified.",
+              "Taste and add salt if needed.",
+              "Drizzle over salads, grilled veggies, or use as a dip for fresh spring rolls."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 5 minutes", "Total Time: 5 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 100 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "spicy-sriracha-honey-chicken-wings",
+    title: "Spicy Sriracha Honey Chicken Wings",
+    image: "/recipes/spicy-sriracha-honey-chicken-wings/images/spicy-sriracha-honey-chicken-wings.jpg",
+    imageAlt: {
+      sv: "Krispiga kycklingvingar med sriracha och honung",
+      en: "Spicy sriracha honey chicken wings"
+    },
+    tags: ["finger-food"],
+    content: {
+      sv: {
+        intro: "Söta, heta och krispiga kycklingvingar med sriracha och honung - perfekt plockmat med mycket smak.",
+        ingredients: [
+          {
+            items: [
+              "10-12 kycklingvingar",
+              "2 msk olivolja",
+              "Salt och svartpeppar efter smak",
+              "2 msk sriracha",
+              "2 msk honung",
+              "1 msk soja",
+              "1 msk risvinäger",
+              "1/2 tsk vitlökspulver",
+              "1/4 tsk chiliflakes (valfritt)",
+              "1 msk sesamfrön (valfritt, till garnering)",
+              "Färsk koriander (valfritt, till garnering)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Sätt ugnen på 200 C.",
+              "Vänd kycklingvingarna i olivolja, salt och peppar. Lägg dem på en plåt med bakplåtspapper.",
+              "Baka i 25-30 minuter och vänd vingarna halvvägs tills de är gyllene och krispiga.",
+              "Vispa ihop sriracha, honung, soja, risvinäger, vitlökspulver och chiliflakes i en liten skål medan vingarna tillagas.",
+              "När vingarna är klara, vänd dem i såsen tills de är jämnt täckta.",
+              "Toppa med sesamfrön och färsk koriander och servera direkt."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Tillagningstid: 30 minuter", "Total tid: 40 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 350 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "Sweet, spicy, and crispy chicken wings with bold sriracha honey flavor.",
+        ingredients: [
+          {
+            items: [
+              "10-12 chicken wings",
+              "2 tbsp olive oil",
+              "Salt and pepper to taste",
+              "2 tbsp sriracha sauce",
+              "2 tbsp honey",
+              "1 tbsp soy sauce",
+              "1 tbsp rice vinegar",
+              "1/2 tsp garlic powder",
+              "1/4 tsp red pepper flakes (optional)",
+              "1 tbsp sesame seeds (optional, for garnish)",
+              "Fresh cilantro for garnish (optional)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Preheat the oven to 400 F (200 C).",
+              "Toss chicken wings in olive oil, salt, and pepper. Arrange on a baking sheet lined with parchment paper.",
+              "Bake for 25-30 minutes, flipping halfway through, until crispy and golden brown.",
+              "While the wings cook, whisk together sriracha, honey, soy sauce, rice vinegar, garlic powder, and red pepper flakes (if using).",
+              "Once wings are done, toss them in the spicy honey sauce until well coated.",
+              "Garnish with sesame seeds and fresh cilantro, and serve immediately."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cook Time: 30 minutes", "Total Time: 40 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 350 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "cold-sesame-noodles",
+    title: "Cold Sesame Noodles",
+    image: "/recipes/cold-sesame-noodles/images/cold-sesame-noodles.jpg",
+    imageAlt: {
+      sv: "Kalla sesamnudlar",
+      en: "Cold sesame noodles"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En sval och krämig nudelrätt med nötig sesamdressing - perfekt som lätt lunch eller fräscht tillbehör.",
+        ingredients: [
+          {
+            items: [
+              "225 g sobanudlar (eller spaghetti)",
+              "2 msk sesamolja",
+              "3 msk soja",
+              "1 msk risvinäger",
+              "1 msk honung",
+              "1 tsk färskriven ingefära",
+              "1 tsk vitlök, finhackad",
+              "1 msk tahini (valfritt)",
+              "1 tsk sesamfrön (till garnering)",
+              "0,6 dl salladslök, hackad"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Koka nudlarna enligt anvisningarna på förpackningen. Häll av och skölj i kallt vatten så de svalnar.",
+              "Vispa ihop sesamolja, soja, risvinäger, honung, ingefära, vitlök och tahini i en liten skål.",
+              "Blanda nudlarna med sesamdressingen tills allt är jämnt täckt.",
+              "Toppa med sesamfrön och hackad salladslök.",
+              "Servera kall."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 5 minuter", "Tillagningstid: 10 minuter", "Total tid: 15 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 250 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A cool, creamy noodle dish with a nutty sesame dressing, perfect for a light lunch or refreshing side.",
+        ingredients: [
+          {
+            items: [
+              "8 oz soba noodles (or spaghetti)",
+              "2 tbsp sesame oil",
+              "3 tbsp soy sauce",
+              "1 tbsp rice vinegar",
+              "1 tbsp honey",
+              "1 tsp grated ginger",
+              "1 tsp garlic, minced",
+              "1 tbsp tahini (optional)",
+              "1 tsp sesame seeds (for garnish)",
+              "1/4 cup chopped green onions"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Cook the noodles according to package directions. Drain and rinse with cold water to cool.",
+              "In a small bowl, whisk together sesame oil, soy sauce, rice vinegar, honey, ginger, garlic, and tahini (if using).",
+              "Toss the cooked noodles with the sesame dressing until evenly coated.",
+              "Garnish with sesame seeds and chopped green onions.",
+              "Serve chilled."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 5 minutes", "Cook Time: 10 minutes", "Total Time: 15 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 250 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "crunchy-avocado-chickpea-salad",
+    title: "Crunchy Avocado & Chickpea Salad",
+    image: "/recipes/crunchy-avocado-chickpea-salad/images/crunchy-avocado-chickpea-salad.jpg",
+    imageAlt: {
+      sv: "Krispig sallad med avokado och kikärtor",
+      en: "Crunchy avocado and chickpea salad"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En färgstark och fräsch sallad med krämig avokado, kikärtor och krispiga grönsaker. Perfekt när du vill ha något lätt men mättande.",
+        ingredients: [
+          {
+            items: [
+              "1 mogen avokado, tärnad",
+              "1 burk (400 g) kikärtor, avrunna och sköljda",
+              "1/2 gurka, skivad",
+              "1/4 rödlök, tunt skivad",
+              "1/2 cup körsbärstomater, halverade",
+              "1/4 cup färsk koriander, hackad",
+              "2 msk olivolja",
+              "1 msk limesaft",
+              "1 tsk spiskummin",
+              "1/2 tsk paprikapulver",
+              "Salt och svartpeppar efter smak",
+              "1/4 cup rostade solroskärnor (valfritt för extra crunch)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda avokado, kikärtor, gurka, rödlök och körsbärstomater i en stor skål.",
+              "Vispa ihop olivolja, limesaft, spiskummin, paprikapulver, salt och peppar i en liten skål.",
+              "Häll dressingen över salladen och vänd runt försiktigt.",
+              "Toppa med hackad koriander och rostade solroskärnor om du vill.",
+              "Servera direkt, eller kyl 10-15 minuter för extra fräschör."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Total tid: 10 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 350 kcal", "Portioner: 2"]
+        }
+      },
+      en: {
+        intro: "A vibrant, refreshing salad with creamy avocado, crunchy chickpeas, and fresh vegetables.",
+        ingredients: [
+          {
+            items: [
+              "1 ripe avocado, diced",
+              "1 can (400g) chickpeas, drained and rinsed",
+              "1/2 cucumber, sliced",
+              "1/4 red onion, thinly sliced",
+              "1/2 cup cherry tomatoes, halved",
+              "1/4 cup fresh cilantro, chopped",
+              "2 tbsp olive oil",
+              "1 tbsp lime juice",
+              "1 tsp cumin",
+              "1/2 tsp paprika",
+              "Salt and pepper to taste",
+              "1/4 cup roasted sunflower seeds (optional for extra crunch)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large bowl, combine diced avocado, chickpeas, cucumber, red onion, and cherry tomatoes.",
+              "In a small bowl, whisk together olive oil, lime juice, cumin, paprika, salt, and pepper.",
+              "Pour the dressing over the salad and toss gently to combine.",
+              "Garnish with chopped cilantro and roasted sunflower seeds if using.",
+              "Serve immediately, or refrigerate for 10-15 minutes for extra chill."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 350 kcal", "Servings: 2"]
+        }
+      }
+    }
+  },
+  {
+    slug: "gochujang-turkey-meatballs-crockpot",
+    title: "Gochujang Turkey Meatballs Crockpot",
+    image: "/recipes/gochujang-turkey-meatballs-crockpot/images/gochujang-turkey-meatballs-crockpot.jpg",
+    imageAlt: {
+      sv: "Gochujang-kottbullar med kalkon i crockpot",
+      en: "Gochujang turkey meatballs in crockpot"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "Smakrikt heta kalkonköttbullar som tillagas långsamt i crockpot i en sötsyrlig gochujangsås. Perfekt till vardag och meal prep.",
+        ingredients: [
+          {
+            items: [
+              "450 g kalkonfärs",
+              "0,6 dl ströbröd",
+              "1 ägg",
+              "2 vitlöksklyftor, finhackade",
+              "1 msk färsk ingefära, riven",
+              "2 msk soja",
+              "1 msk sesamolja",
+              "1 msk risvinäger",
+              "2 msk gochujang (koreansk chilipasta)",
+              "2 msk honung",
+              "0,6 dl vatten",
+              "0,6 dl salladslök, hackad (till garnering)",
+              "1 msk sesamfrön (valfritt, till garnering)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda kalkonfärs, ströbröd, ägg, vitlök, ingefära, soja, sesamolja och risvinäger i en stor skål. Forma till små köttbullar.",
+              "Lägg köttbullarna i crockpot.",
+              "Vispa ihop gochujang, honung och vatten i en liten skål. Häll såsen över köttbullarna.",
+              "Tillaga med lock på låg värme i 4-5 timmar eller hög värme i 2-3 timmar tills köttbullarna är genomlagade.",
+              "Toppa med salladslök och sesamfrön före servering.",
+              "Servera gärna med ris eller grönsaker."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Tillagningstid: 4-5 timmar (låg) eller 2-3 timmar (hög)", "Total tid: 4-5 timmar"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 300 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "Bold and spicy turkey meatballs cooked low and slow in a sweet-savory gochujang sauce. Great for cozy dinners and meal prep.",
+        ingredients: [
+          {
+            items: [
+              "1 lb ground turkey",
+              "1/4 cup breadcrumbs",
+              "1 egg",
+              "2 cloves garlic, minced",
+              "1 tbsp ginger, grated",
+              "2 tbsp soy sauce",
+              "1 tbsp sesame oil",
+              "1 tbsp rice vinegar",
+              "2 tbsp gochujang (Korean chili paste)",
+              "2 tbsp honey",
+              "1/4 cup water",
+              "1/4 cup green onions, chopped (for garnish)",
+              "1 tbsp sesame seeds (optional, for garnish)"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large bowl, combine ground turkey, breadcrumbs, egg, garlic, ginger, soy sauce, sesame oil, and rice vinegar. Form into small meatballs.",
+              "Place the meatballs in the crockpot.",
+              "In a small bowl, whisk together gochujang, honey, and water. Pour the sauce over the meatballs.",
+              "Cover and cook on low for 4-5 hours, or on high for 2-3 hours, until cooked through.",
+              "Garnish with green onions and sesame seeds before serving.",
+              "Serve with rice or vegetables."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cook Time: 4-5 hours (low) or 2-3 hours (high)", "Total Time: 4-5 hours"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 300 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "soy-balsamic-vinaigrette",
+    title: "Soy-Balsamic Vinaigrette",
+    image: "/recipes/soy-balsamic-vinaigrette/images/soy-balsamic-vinaigrette.jpg",
+    imageAlt: {
+      sv: "Soja-balsamvinägrett",
+      en: "Soy-balsamic vinaigrette"
+    },
+    tags: ["sauce"],
+    content: {
+      sv: {
+        intro: "En enkel men smakrik vinägrett med perfekt balans mellan syrlig balsamico och umamirik soja.",
+        ingredients: [
+          {
+            items: [
+              "2 msk soja",
+              "2 msk balsamvinäger",
+              "1 msk olivolja",
+              "1 tsk dijonsenap",
+              "1 tsk honung (valfritt)",
+              "1 vitlöksklyfta, finhackad",
+              "Salt och svartpeppar efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Vispa ihop soja, balsamvinäger, olivolja, dijonsenap, honung (om du använder det) och vitlök i en liten skål.",
+              "Smaka av med salt och peppar.",
+              "Ringla över sallad, rostade grönsaker eller grillat."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 5 minuter", "Total tid: 5 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 50 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A simple but bold vinaigrette with the perfect balance of tangy balsamic and savory soy.",
+        ingredients: [
+          {
+            items: [
+              "2 tbsp soy sauce",
+              "2 tbsp balsamic vinegar",
+              "1 tbsp olive oil",
+              "1 tsp Dijon mustard",
+              "1 tsp honey (optional)",
+              "1 garlic clove, minced",
+              "Salt and pepper to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a small bowl, whisk together soy sauce, balsamic vinegar, olive oil, Dijon mustard, honey (if using), and minced garlic.",
+              "Season with salt and pepper to taste.",
+              "Drizzle over your favorite salad, roasted veggies, or grilled meats."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 5 minutes", "Total Time: 5 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 50 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "spicy-peanut-zucchini-chickpea-bowl",
+    title: "Spicy Peanut Zucchini Chickpea Bowl",
+    image: "/recipes/spicy-peanut-zucchini-chickpea-bowl/images/spicy-peanut-zucchini-chickpea-bowl.jpg",
+    imageAlt: {
+      sv: "Kryddig bowl med zucchini, kikärtor och jordnötssås",
+      en: "Spicy peanut zucchini chickpea bowl"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En smakrik och mättande bowl med rostad zucchini, krispiga kikärtor och het jordnötssås.",
+        ingredients: [
+          {
+            items: [
+              "2 medelstora zucchini, skivade",
+              "1 burk kikärtor, avrunna och sköljda",
+              "1 msk olivolja",
+              "1 tsk paprikapulver",
+              "1/2 tsk spiskummin",
+              "Salt och svartpeppar efter smak",
+              "0,6 dl kokt quinoa eller ris",
+              "2 msk jordnötssmör",
+              "1 msk soja",
+              "1 msk limesaft",
+              "1 tsk honung",
+              "1/2 tsk chiliflakes (justera efter smak)",
+              "Färsk koriander till garnering"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Sätt ugnen på 200 C.",
+              "Vänd zucchini och kikärtor i olivolja, paprikapulver, spiskummin, salt och peppar. Fördela på en plåt.",
+              "Rosta i 20-25 minuter och vänd halvvägs tills zucchinin är mjuk och kikärtorna krispiga.",
+              "Vispa ihop jordnötssmör, soja, limesaft, honung och chiliflakes i en skål till en slät sås.",
+              "Lägg quinoa eller ris i skålar och toppa med rostad zucchini och kikärtor.",
+              "Ringla över den kryddiga jordnötssåsen, toppa med färsk koriander och servera varm."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Tillagningstid: 25 minuter", "Total tid: 35 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 380 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A bold and hearty bowl with roasted zucchini, crispy chickpeas, and a spicy peanut sauce.",
+        ingredients: [
+          {
+            items: [
+              "2 medium zucchinis, sliced",
+              "1 can chickpeas, drained and rinsed",
+              "1 tbsp olive oil",
+              "1 tsp paprika",
+              "1/2 tsp cumin",
+              "Salt and pepper to taste",
+              "1/4 cup cooked quinoa or rice",
+              "2 tbsp peanut butter",
+              "1 tbsp soy sauce",
+              "1 tbsp lime juice",
+              "1 tsp honey",
+              "1/2 tsp chili flakes (adjust to taste)",
+              "Fresh cilantro for garnish"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Preheat your oven to 400 F (200 C).",
+              "Toss zucchini slices and chickpeas with olive oil, paprika, cumin, salt, and pepper. Spread on a baking sheet.",
+              "Roast for 20-25 minutes, flipping halfway, until zucchini is tender and chickpeas are crispy.",
+              "Whisk together peanut butter, soy sauce, lime juice, honey, and chili flakes in a bowl.",
+              "To assemble, place quinoa or rice in a bowl and top with roasted zucchini and chickpeas.",
+              "Drizzle with spicy peanut sauce, garnish with cilantro, and serve warm."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cook Time: 25 minutes", "Total Time: 35 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 380 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "spicy-garlic-sesame-gyoza-sauce",
+    title: "Spicy Garlic & Sesame Sauce for Gyoza",
+    image: "/recipes/spicy-garlic-sesame-gyoza-sauce/images/spicy-garlic-sesame-gyoza-sauce.jpg",
+    imageAlt: {
+      sv: "Het vitlöks- och sesamsås till gyoza",
+      en: "Spicy garlic and sesame sauce for gyoza"
+    },
+    tags: ["sauce"],
+    content: {
+      sv: {
+        intro: "En smakrik och het dippsås med vitlök och sesam som passar perfekt till krispiga gyoza.",
+        ingredients: [
+          {
+            items: [
+              "2 msk soja",
+              "1 msk risvinäger",
+              "1 msk sesamolja",
+              "1 tsk chilipasta eller sriracha (justera efter smak)",
+              "1 vitlöksklyfta, finhackad",
+              "1 tsk rostade sesamfrön",
+              "1/2 tsk socker (valfritt)",
+              "1 msk vatten"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda soja, risvinäger, sesamolja, chilipasta eller sriracha, vitlök, sesamfrön och socker i en liten skål.",
+              "Rör om tills allt blandats och sockret löst sig om du använder det.",
+              "Tillsätt vatten och justera till önskad konsistens.",
+              "Servera direkt till gyoza, eller förvara i kyl upp till en vecka."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 5 minuter", "Tillagningstid: 0 minuter", "Total tid: 5 minuter"],
+        nutrition: {
+          title: "Näringsvärde",
+          items: ["Kalorier: 40 kcal per portion", "Ger ca 0,6 dl sås"]
+        }
+      },
+      en: {
+        intro: "A bold, tangy, and spicy dipping sauce with garlic and sesame, perfect with crispy gyoza.",
+        ingredients: [
+          {
+            items: [
+              "2 tablespoons soy sauce",
+              "1 tablespoon rice vinegar",
+              "1 tablespoon sesame oil",
+              "1 teaspoon chili paste or sriracha (adjust to taste)",
+              "1 clove garlic, minced",
+              "1 teaspoon toasted sesame seeds",
+              "1/2 teaspoon sugar (optional)",
+              "1 tablespoon water"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a small bowl, combine soy sauce, rice vinegar, sesame oil, chili paste or sriracha, minced garlic, sesame seeds, and sugar (if using).",
+              "Stir well until combined and the sugar dissolves.",
+              "Add water to thin the sauce to your preferred consistency.",
+              "Serve immediately as a dipping sauce for gyoza, or refrigerate for up to one week."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 5 minutes", "Cook Time: 0 minutes", "Total Time: 5 minutes"],
+        nutrition: {
+          title: "Nutritional Information",
+          items: ["Calories: 40 kcal per serving", "Makes about 1/4 cup"]
+        }
+      }
+    }
   }
 ];
