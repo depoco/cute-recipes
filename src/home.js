@@ -91,6 +91,11 @@ function applyFilter(tag, query) {
   if (empty) {
     empty.hidden = visibleCount !== 0;
   }
+
+  var counter = document.querySelector("[data-recipe-count]");
+  if (counter) {
+    counter.textContent = "Visar " + visibleCount + " recept";
+  }
 }
 
 function initHome() {

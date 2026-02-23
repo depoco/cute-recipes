@@ -33,6 +33,25 @@ h1 {
   font-size: clamp(1.8rem, 4vw, 2.5rem);
 }
 
+.recipe-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.recipe-heading h2 {
+  margin: 0;
+}
+
+.recipe-count {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+
 .site-header p {
   margin: 0.5rem 0 0;
   color: var(--muted);
@@ -247,6 +266,10 @@ ol {
 }
 
 @media (max-width: 560px) {
+  .recipe-heading {
+    flex-wrap: wrap;
+  }
+
   section,
   .recipe-content {
     padding: 0.85rem;
