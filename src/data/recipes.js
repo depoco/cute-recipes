@@ -1833,11 +1833,11 @@ export const recipes = [
   },
   {
     slug: "store-og-luftige-boller",
-    title: "Store og luftige boller",
+    title: "Large Fluffy Cardamom Buns",
     image: "/recipes/store-og-luftige-boller/images/store-og-luftige-boller.jpg",
     imageAlt: {
       sv: "Stora och luftiga bullar",
-      en: "Large, fluffy buns"
+      en: "Large fluffy cardamom buns"
     },
     tags: ["dessert"],
     content: {
@@ -1888,27 +1888,27 @@ export const recipes = [
         ingredients: [
           {
             items: [
-              "550 g all-purpose flour",
-              "100 g sugar",
-              "50 g fresh yeast",
+              "4 1/2 cups all-purpose flour",
+              "1/2 cup sugar",
+              "2 packets (14 g) active dry yeast",
               "2 tsp cardamom",
-              "1 tsp vanilla sugar",
+              "1 tsp vanilla sugar (or 1 tsp vanilla extract)",
               "1 tsp baking powder",
-              "3 1/2 dl milk",
-              "100 g butter, room temperature",
+              "1 1/2 cups milk",
+              "7 tbsp butter, room temperature",
               "1 egg, beaten for brushing"
             ]
           },
           {
             title: "Filling",
-            items: ["100 g raisins", "100 g chocolate, chunks"]
+            items: ["2/3 cup raisins", "2/3 cup chocolate chunks"]
           }
         ],
         steps: [
           {
             items: [
-              "Warm the milk to 25-30 C. Crumble the yeast into a bowl and dissolve in the milk.",
-              "If using dry yeast, the milk needs to be exactly 37 C.",
+              "Warm the milk to 77-86 F. Stir in the yeast and let it dissolve.",
+              "If using instant yeast, the milk should be about 98 F.",
               "Add sugar, cardamom, vanilla sugar, baking powder, and about two-thirds of the flour.",
               "Knead in a mixer. Gradually add the remaining flour and the softened butter in small pieces.",
               "Knead until smooth and elastic and the dough releases from the bowl, 10-15 minutes. (Add raisins or chocolate at the end if using.)",
