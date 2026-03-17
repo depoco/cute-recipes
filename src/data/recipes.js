@@ -1650,6 +1650,364 @@ export const recipes = [
     }
   },
   {
+    slug: "creamy-avocado-cilantro-lime-sauce",
+    title: "Creamy Avocado Cilantro Lime Sauce",
+    image: "/recipes/creamy-avocado-cilantro-lime-sauce/images/creamy-avocado-cilantro-lime-sauce.jpg",
+    imageAlt: {
+      sv: "Krämig avokado- och koriander-limesås",
+      en: "Creamy avocado cilantro lime sauce"
+    },
+    tags: ["starter"],
+    content: {
+      sv: {
+        intro: "En krämig, frisk och syrlig sås som lyfter tacos, sallader, grillat eller fungerar som dip.",
+        ingredients: [
+          {
+            items: [
+              "1 mogen avokado, skalad och urkärnad",
+              "0,6 dl färsk koriander, hackad",
+              "2 msk limejuice",
+              "0,6 dl grekisk yoghurt eller gräddfil",
+              "0,6 dl vatten (för att tunna såsen)",
+              "1 liten vitlöksklyfta, finhackad",
+              "1/2 tsk spiskummin",
+              "Salt och svartpeppar efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Förbered såsen",
+            items: [
+              "Mixa avokado, koriander, limejuice, grekisk yoghurt (eller gräddfil), vatten, vitlök och spiskummin i en blender eller matberedare.",
+              "Mixa tills såsen är slät och krämig."
+            ]
+          },
+          {
+            title: "Justera konsistensen",
+            items: [
+              "Om såsen är för tjock, tillsätt mer vatten, 1 msk i taget, tills du når önskad konsistens."
+            ]
+          },
+          {
+            title: "Smaka av och servera",
+            items: [
+              "Smaka av med salt och svartpeppar.",
+              "Servera direkt eller förvara i tättslutande behållare i kyl i upp till 3 dagar."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 5 minuter", "Total tid: 5 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 120 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A creamy, zesty sauce that lifts tacos, salads, grilled meats, or works as a dip.",
+        ingredients: [
+          {
+            items: [
+              "1 ripe avocado, peeled and pitted",
+              "1/4 cup fresh cilantro, chopped",
+              "2 tbsp lime juice",
+              "1/4 cup Greek yogurt or sour cream",
+              "1/4 cup water (to thin the sauce)",
+              "1 small garlic clove, minced",
+              "1/2 tsp cumin",
+              "Salt and pepper to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            title: "Prepare the sauce",
+            items: [
+              "In a blender or food processor, combine avocado, cilantro, lime juice, Greek yogurt (or sour cream), water, garlic, and cumin.",
+              "Blend until smooth and creamy."
+            ]
+          },
+          {
+            title: "Adjust the consistency",
+            items: [
+              "If the sauce is too thick, add more water, 1 tablespoon at a time, until you reach your desired consistency."
+            ]
+          },
+          {
+            title: "Season and serve",
+            items: [
+              "Taste and adjust seasoning with salt and pepper as needed.",
+              "Serve immediately, or refrigerate in an airtight container for up to 3 days."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 5 minutes", "Total Time: 5 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 120 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "fresh-ricotta-bruschetta-dip",
+    title: "Fresh Ricotta Bruschetta Dip",
+    image: "/recipes/fresh-ricotta-bruschetta-dip/images/fresh-ricotta-bruschetta-dip.jpg",
+    imageAlt: {
+      sv: "Ricottadipp med tomat och basilika",
+      en: "Fresh ricotta bruschetta dip"
+    },
+    tags: ["starter"],
+    content: {
+      sv: {
+        intro: "Krämigt vispad ricotta toppad med saftiga tomater, basilika, vitlök och olivolja. En bruschetta i dip-form.",
+        ingredients: [
+          {
+            items: [
+              "3,6 dl ricotta (helfet)",
+              "4,8 dl färska tomater, tärnade",
+              "2 msk olivolja, plus extra för ringling",
+              "2 vitlöksklyftor, finhackade",
+              "2 msk färsk basilika, hackad",
+              "1 msk balsamico glaze (valfritt)",
+              "1/2 tsk salt",
+              "1/2 tsk svartpeppar",
+              "1/4 tsk chiliflakes (valfritt)",
+              "Rostade baguetteskivor eller kex, till servering"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Vispa ricotta med 1 msk olivolja, salt och svartpeppar tills den är slät och krämig. Bred ut i ett serveringsfat.",
+              "Blanda tomater, vitlök, basilika, resterande olivolja och chiliflakes i en skål.",
+              "Skeda tomatblandningen över ricottan.",
+              "Ringla över lite extra olivolja och balsamico glaze om du vill.",
+              "Servera direkt med rostat bröd eller kex."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Tillagningstid: 0 minuter", "Total tid: 10 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 210 kcal", "Portioner: 6"]
+        }
+      },
+      en: {
+        intro: "Creamy whipped ricotta topped with juicy tomatoes, basil, garlic, and olive oil. A bruschetta-inspired dip.",
+        ingredients: [
+          {
+            items: [
+              "1 1/2 cups whole milk ricotta cheese",
+              "2 cups fresh tomatoes, diced",
+              "2 tbsp olive oil, plus extra for drizzling",
+              "2 cloves garlic, minced",
+              "2 tbsp fresh basil, chopped",
+              "1 tbsp balsamic glaze (optional)",
+              "1/2 tsp salt",
+              "1/2 tsp black pepper",
+              "1/4 tsp red pepper flakes (optional)",
+              "Toasted baguette slices or crackers, for serving"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a bowl, whip ricotta with 1 tablespoon olive oil, salt, and black pepper until smooth and creamy. Spread in a serving dish.",
+              "In another bowl, combine diced tomatoes, minced garlic, chopped basil, remaining olive oil, and red pepper flakes.",
+              "Spoon the tomato mixture over the ricotta layer.",
+              "Drizzle with extra olive oil and balsamic glaze if desired.",
+              "Serve immediately with toasted baguette slices or crackers."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cook Time: 0 minutes", "Total Time: 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 210 kcal", "Servings: 6"]
+        }
+      }
+    }
+  },
+  {
+    slug: "store-og-luftige-boller",
+    title: "Store og luftige boller",
+    image: "/recipes/store-og-luftige-boller/images/store-og-luftige-boller.jpg",
+    imageAlt: {
+      sv: "Stora och luftiga bullar",
+      en: "Large, fluffy buns"
+    },
+    tags: ["dessert"],
+    content: {
+      sv: {
+        intro: "Stora och luftiga bullar med kardemumma, vanilj och valfri fyllning av russin eller choklad.",
+        ingredients: [
+          {
+            items: [
+              "550 g vetemjöl",
+              "100 g socker",
+              "50 g färsk jäst",
+              "2 tsk kardemumma",
+              "1 tsk vaniljsocker",
+              "1 tsk bakpulver",
+              "3,5 dl mjölk",
+              "100 g mejerismör, rumstempererat",
+              "1 ägg, uppvispat till pensling"
+            ]
+          },
+          {
+            title: "Fyllning",
+            items: ["100 g russin", "100 g choklad, bitar"]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Värm mjölken till 25-30 grader. Smula jästen i en bunke och rör ut med mjölken.",
+              "Om du använder torrjäst behöver mjölken vara exakt 37 grader.",
+              "Tillsätt socker, kardemumma, vaniljsocker, bakpulver och cirka två tredjedelar av mjölet.",
+              "Arbeta degen i maskin. Tillsätt resterande mjöl gradvis och det mjuka smöret i små bitar.",
+              "Arbeta degen tills den är helt slät och smidig och släpper bunken, 10-15 minuter i maskin. (Om du vill, tillsätt russin eller choklad mot slutet.)",
+              "Täck bunken med plast och låt degen jäsa till dubbel storlek.",
+              "Knåda degen, dela i 10-12 bitar och forma fina bullar. Lägg på plåt med bakduk eller bakpapper.",
+              "Täck bullarna och låt jäsa i ca 30 minuter. Pensla med ägg.",
+              "Grädda i 210 C i 10-15 minuter. Låt svalna på galler."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 20 minuter", "Jästid: 60 minuter", "Total tid: 1 timme 30 minuter"],
+        nutrition: {
+          title: "Näringsvärde",
+          items: ["Portioner: 10-12"]
+        }
+      },
+      en: {
+        intro: "Large, fluffy buns flavored with cardamom and vanilla, with optional raisins or chocolate chunks.",
+        ingredients: [
+          {
+            items: [
+              "550 g all-purpose flour",
+              "100 g sugar",
+              "50 g fresh yeast",
+              "2 tsp cardamom",
+              "1 tsp vanilla sugar",
+              "1 tsp baking powder",
+              "3 1/2 dl milk",
+              "100 g butter, room temperature",
+              "1 egg, beaten for brushing"
+            ]
+          },
+          {
+            title: "Filling",
+            items: ["100 g raisins", "100 g chocolate, chunks"]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Warm the milk to 25-30 C. Crumble the yeast into a bowl and dissolve in the milk.",
+              "If using dry yeast, the milk needs to be exactly 37 C.",
+              "Add sugar, cardamom, vanilla sugar, baking powder, and about two-thirds of the flour.",
+              "Knead in a mixer. Gradually add the remaining flour and the softened butter in small pieces.",
+              "Knead until smooth and elastic and the dough releases from the bowl, 10-15 minutes. (Add raisins or chocolate at the end if using.)",
+              "Cover and let rise until doubled in size.",
+              "Punch down, divide into 10-12 pieces, and shape into buns. Place on a lined baking sheet.",
+              "Cover and let rise for about 30 minutes. Brush with egg.",
+              "Bake at 210 C (410 F) for 10-15 minutes. Cool on a rack."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 20 minutes", "Rise Time: 60 minutes", "Total Time: 1 hour 30 minutes"],
+        nutrition: {
+          title: "Nutritional Information",
+          items: ["Servings: 10-12"]
+        }
+      }
+    }
+  },
+  {
+    slug: "mango-avocado-cilantro-lime-salad",
+    title: "Mango Avocado Cilantro Lime Salad",
+    image: "/recipes/mango-avocado-cilantro-lime-salad/images/mango-avocado-cilantro-lime-salad.jpg",
+    imageAlt: {
+      sv: "Mango- och avokadosallad med koriander och lime",
+      en: "Mango avocado cilantro lime salad"
+    },
+    tags: ["starter"],
+    content: {
+      sv: {
+        intro: "En fräsch och tropisk sallad med söt mango, krämig avokado och syrlig lime.",
+        ingredients: [
+          {
+            items: [
+              "1 mogen mango, tärnad",
+              "1 avokado, tärnad",
+              "2,4 dl körsbärstomater, halverade",
+              "0,6 dl rödlök, finhackad",
+              "2 msk färsk koriander, hackad",
+              "2 msk olivolja",
+              "1,5 msk färsk limejuice",
+              "Salt och svartpeppar efter smak",
+              "Valfritt: skivad gurka för extra crunch"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Blanda mango, avokado, körsbärstomater, rödlök och gurka om du använder i en stor skål.",
+              "Ringla över olivolja och limejuice.",
+              "Tillsätt koriander, salt och svartpeppar.",
+              "Vänd försiktigt ihop allt tills det är jämnt blandat.",
+              "Servera direkt för bästa fräschör."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Tillagningstid: 0 minuter", "Total tid: 10 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: 240 kcal", "Portioner: 2-3"]
+        }
+      },
+      en: {
+        intro: "Bright, fresh, and tropical with sweet mango, creamy avocado, and zesty lime.",
+        ingredients: [
+          {
+            items: [
+              "1 ripe mango, diced",
+              "1 avocado, diced",
+              "1 cup cherry tomatoes, halved",
+              "1/4 cup red onion, finely chopped",
+              "2 tbsp fresh cilantro, chopped",
+              "2 tbsp olive oil",
+              "1 1/2 tbsp fresh lime juice",
+              "Salt and black pepper to taste",
+              "Optional: sliced cucumber for extra crunch"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "In a large bowl, combine mango, avocado, cherry tomatoes, red onion, and cucumber if using.",
+              "Drizzle with olive oil and fresh lime juice.",
+              "Add chopped cilantro, salt, and black pepper.",
+              "Gently toss until well combined.",
+              "Serve immediately for the freshest flavor."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Cook Time: 0 minutes", "Total Time: 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: 240 kcal", "Servings: 2-3"]
+        }
+      }
+    }
+  },
+  {
     slug: "mediterranean-ground-beef-pita",
     title: "Mediterranean Ground Beef Pita with Hot Honey Feta Cream",
     image: "/recipes/mediterranean-ground-beef-pita/images/mediterranean-ground-beef-pita.jpg",
