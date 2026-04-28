@@ -4112,5 +4112,425 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "passion-fruit-martini",
+    title: "Passion Fruit Martini",
+    image: "/recipes/passion-fruit-martini/images/passion-fruit-martini.jpg",
+    imageAlt: {
+      sv: "Passionsfruktmartini i martiniglas",
+      en: "Passion fruit martini in a martini glass"
+    },
+    tags: ["drinks"],
+    content: {
+      sv: {
+        intro: "En frisk och tropisk passionsfruktmartini med citrus och en lätt sötma. Perfekt till fest eller som en elegant fördrink.",
+        ingredients: [
+          {
+            items: [
+              "4 cl citrusvodka",
+              "4 cl vit tranbärsjuice",
+              "4 cl passionsfruktjuice",
+              "2 cl apelsinlikör",
+              "1 msk körsbärsjuice",
+              "Is",
+              "Apelsinskiva eller passionsfrukt till garnering"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Fyll en shaker med is och häll i citrusvodka, tranbärsjuice, passionsfruktjuice, apelsinlikör och körsbärsjuice.",
+              "Skaka kraftigt i 15-20 sekunder tills shakern är ordentligt kall.",
+              "Sila upp drinken i ett kylt martiniglas.",
+              "Garnera med en apelsinskiva eller en halv passionsfrukt och servera direkt."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Total tid: 10 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per drink)",
+          items: ["Kalorier: cirka 150 kcal", "Portioner: 2"]
+        }
+      },
+      en: {
+        intro: "A bright, tropical passion fruit martini with citrus notes and gentle sweetness. Great for parties or as an elegant aperitif.",
+        ingredients: [
+          {
+            items: [
+              "4 cl citrus vodka",
+              "4 cl white cranberry juice",
+              "4 cl passion fruit juice",
+              "2 cl orange liqueur",
+              "1 tbsp cherry juice",
+              "Ice",
+              "Orange slice or passion fruit for garnish"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Fill a shaker with ice and add citrus vodka, white cranberry juice, passion fruit juice, orange liqueur, and cherry juice.",
+              "Shake hard for 15-20 seconds until the shaker is very cold.",
+              "Strain into a chilled martini glass.",
+              "Garnish with an orange slice or half a passion fruit and serve immediately."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per drink)",
+          items: ["Calories: about 150 kcal", "Servings: 2"]
+        }
+      }
+    }
+  },
+  {
+    slug: "tangerine-habanero-margarita",
+    title: "Tangerine Habanero Margarita",
+    image: "/recipes/tangerine-habanero-margarita/images/tangerine-habanero-margarita.jpg",
+    imageAlt: {
+      sv: "Mandarin- och habaneromargarita med is",
+      en: "Tangerine and habanero margarita over ice"
+    },
+    tags: ["drinks"],
+    content: {
+      sv: {
+        intro: "En kryddig och citrusfrisk margarita med mandarin och habanero. Sötma, syra och hetta i perfekt balans.",
+        ingredients: [
+          {
+            items: [
+              "2 habanerochili",
+              "4 tsk rivet limeskal",
+              "0,6 dl limejuice",
+              "4 tsk rivet citronskal",
+              "0,6 dl citronjuice",
+              "1,2 dl mandarinsaft",
+              "0,6 dl florsocker",
+              "1 nypa salt",
+              "4,7 dl krossad is",
+              "2,4 dl reposadotequila",
+              "2,4 dl triple sec"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Rosta habanerochilina lätt i torr stekpanna tills skalen börjar bli något krispiga. Låt svalna kort.",
+              "Lägg chili, limeskal, limejuice, citronskal, citronjuice, mandarinsaft, florsocker och salt i en skål.",
+              "Täck skålen och låt blandningen stå i kylskåp i cirka 2 timmar för att dra smak.",
+              "Sila bort chili och skal.",
+              "Fördela hälften av den krossade isen i 4 margaritaglas.",
+              "Häll den silade citrusblandningen i en kanna och rör ner tequila, triple sec och resten av isen.",
+              "Servera direkt."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 10 minuter", "Total tid: 10 minuter", "Extra tid: 2 timmar i kyl"],
+        nutrition: {
+          title: "Näringsvärde (per drink)",
+          items: ["Kalorier: cirka 150 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A spicy, citrus-forward margarita with tangerine and habanero. Sweet, tart, and hot in a balanced mix.",
+        ingredients: [
+          {
+            items: [
+              "2 habanero chilies",
+              "4 tsp lime zest",
+              "0.6 dl lime juice",
+              "4 tsp lemon zest",
+              "0.6 dl lemon juice",
+              "1.2 dl tangerine juice",
+              "0.6 dl powdered sugar",
+              "1 pinch salt",
+              "4.7 dl crushed ice",
+              "2.4 dl reposado tequila",
+              "2.4 dl triple sec"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Lightly roast the habanero chilies in a dry skillet until the skins begin to crisp. Let cool briefly.",
+              "Combine chili, lime zest, lime juice, lemon zest, lemon juice, tangerine juice, powdered sugar, and salt in a bowl.",
+              "Cover and refrigerate for about 2 hours to infuse.",
+              "Strain out the chili and zest.",
+              "Divide half of the crushed ice between 4 margarita glasses.",
+              "Pour the strained citrus mix into a pitcher and stir in tequila, triple sec, and the remaining crushed ice.",
+              "Serve immediately."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes", "Extra Time: 2 hours chilled"],
+        nutrition: {
+          title: "Nutritional Information (per drink)",
+          items: ["Calories: about 150 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "brazilian-strawberry-cachaca-drink",
+    title: "Brazilian Strawberry Cachaça Drink",
+    image: "/recipes/brazilian-strawberry-cachaca-drink/images/brazilian-strawberry-cachaca-drink.jpg",
+    imageAlt: {
+      sv: "Brasiliansk jordgubbsdrink med cachaça",
+      en: "Brazilian strawberry cachaça cocktail"
+    },
+    tags: ["drinks"],
+    content: {
+      sv: {
+        intro: "En frisk brasiliansk drink med jordgubbar, cachaça och en hint av kanel. Snabb att göra och perfekt för varma kvällar.",
+        ingredients: [
+          {
+            items: ["4,5 cl cachaça", "3 jordgubbar, hackade", "1 tsk agavesirap", "2 nypor malen kanel", "Is"]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Muddla jordgubbar, agavesirap och kanel i botten av en shaker.",
+              "Tillsätt is och cachaça.",
+              "Skaka ordentligt och sila upp i ett stort rocksglas över is.",
+              "Servera direkt."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 5 minuter", "Total tid: 5 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per drink)",
+          items: ["Kalorier: cirka 150 kcal", "Portioner: 1"]
+        }
+      },
+      en: {
+        intro: "A refreshing Brazilian cocktail with strawberries, cachaça, and a touch of cinnamon. Fast to make and great for warm evenings.",
+        ingredients: [
+          {
+            items: ["4.5 cl cachaça", "3 strawberries, chopped", "1 tsp agave syrup", "2 pinches ground cinnamon", "Ice"]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Muddle strawberries, agave syrup, and cinnamon in the bottom of a shaker.",
+              "Add ice and cachaça.",
+              "Shake well and strain into a large rocks glass over ice.",
+              "Serve immediately."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 5 minutes", "Total Time: 5 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per drink)",
+          items: ["Calories: about 150 kcal", "Servings: 1"]
+        }
+      }
+    }
+  },
+  {
+    slug: "coconut-coriander-soup-vermicelli-turkey",
+    title: "Coconut Coriander Soup with Vermicelli and Turkey",
+    image: "/recipes/coconut-coriander-soup-vermicelli-turkey/images/coconut-coriander-soup-vermicelli-turkey.jpg",
+    imageAlt: {
+      sv: "Kokos- och koriandersoppa med kalkon och vermicelli",
+      en: "Coconut coriander soup with turkey and vermicelli"
+    },
+    tags: ["main-course"],
+    content: {
+      sv: {
+        intro: "En aromatisk och värmande kokos- och koriandersoppa med kalkon och vermicelli. Lättlagad men full av smak.",
+        ingredients: [
+          {
+            items: [
+              "2 msk neutral olja",
+              "450 g kalkonfärs eller kycklingfärs",
+              "2 vitlöksklyftor, finhackade",
+              "En bit färsk ingefära (ca 4-5 cm), finhackad",
+              "4,7 dl vatten",
+              "9,5 dl kyckling- eller grönsaksbuljong (gärna lågsalt)",
+              "115 g vermicelli eller mycket tunna nudlar, brutna i kortare bitar",
+              "2 lime",
+              "2 salladslökar",
+              "1,2 dl färsk koriander, grovhackad",
+              "200 ml osötad kokosmjölk",
+              "0,5 tsk chiliflakes",
+              "Salt efter smak"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Värm oljan i en kastrull på medelhög värme.",
+              "Tillsätt kalkonfärsen och stek under omrörning så att köttet smulas fint.",
+              "Efter cirka 3 minuter, tillsätt vitlök och ingefära och stek ytterligare 1 minut.",
+              "Häll i vatten och buljong och koka upp.",
+              "Tillsätt ungefär 1 tsk salt och nudlarna. Lägg på lock och sjud i cirka 5 minuter tills nudlarna är mjuka.",
+              "Pressa lime, skiva salladslök tunt och hacka koriander medan soppan kokar.",
+              "Ta kastrullen från värmen när nudlarna är klara.",
+              "Rör ner limejuice och kokosmjölk.",
+              "Smaka av med salt och chiliflakes. Toppa med salladslök och koriander vid servering."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 15 minuter", "Tillagningstid: 20 minuter", "Total tid: 35 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per portion)",
+          items: ["Kalorier: cirka 250 kcal", "Portioner: 4"]
+        }
+      },
+      en: {
+        intro: "A fragrant, warming coconut and coriander soup with turkey and vermicelli. Easy to make but packed with flavor.",
+        ingredients: [
+          {
+            items: [
+              "2 tbsp neutral oil",
+              "450 g ground turkey or ground chicken",
+              "2 garlic cloves, minced",
+              "A piece of fresh ginger (about 4-5 cm), finely chopped",
+              "4.7 dl water",
+              "9.5 dl chicken or vegetable broth (preferably low sodium)",
+              "115 g vermicelli or very thin noodles, broken into shorter pieces",
+              "2 limes",
+              "2 spring onions",
+              "1.2 dl fresh cilantro, roughly chopped",
+              "200 ml unsweetened coconut milk",
+              "0.5 tsp red pepper flakes",
+              "Salt to taste"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Heat the oil in a pot over medium-high heat.",
+              "Add the ground turkey and cook, breaking it up into small pieces.",
+              "After about 3 minutes, add garlic and ginger and cook for 1 more minute.",
+              "Pour in water and broth, then bring to a boil.",
+              "Add about 1 tsp salt and the noodles. Cover and simmer for about 5 minutes until tender.",
+              "While the soup cooks, juice the limes, thinly slice the spring onions, and roughly chop the cilantro.",
+              "Remove the pot from heat once noodles are done.",
+              "Stir in lime juice and coconut milk.",
+              "Season with salt and red pepper flakes. Top with spring onions and cilantro to serve."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 15 minutes", "Cook Time: 20 minutes", "Total Time: 35 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per serving)",
+          items: ["Calories: about 250 kcal", "Servings: 4"]
+        }
+      }
+    }
+  },
+  {
+    slug: "fancy-farmers-cocktail",
+    title: "Fancy Farmer's Cocktail",
+    image: "/recipes/fancy-farmers-cocktail/images/fancy-farmers-cocktail.jpg",
+    imageAlt: {
+      sv: "Fancy Farmer's cocktail med persika och mynta",
+      en: "Fancy Farmer's cocktail with peach and mint"
+    },
+    tags: ["drinks"],
+    content: {
+      sv: {
+        intro: "En elegant bål-cocktail med persika, mynta, vodka och champagne. Perfekt till fest och större sällskap.",
+        ingredients: [
+          {
+            title: "Till persika- och myntais",
+            items: [
+              "Skivad persika",
+              "Färsk mynta",
+              "Kallt vatten",
+              "1 stor ringform (ca 2,5-3 liter)"
+            ]
+          },
+          {
+            title: "Till persikosirap",
+            items: ["Skivad persika", "4,5 dl socker", "5 dl vatten"]
+          },
+          {
+            title: "Till cocktailen",
+            items: [
+              "9,5 dl vodka",
+              "7 dl cassislikör",
+              "4,5 dl persikosirap",
+              "1 dl limejuice",
+              "1 flaska champagne (750 ml)",
+              "20 kvistar färsk mynta",
+              "Is till servering"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Gör isringen: lägg skivad persika och mynta i en ringform. Fyll med kallt vatten nästan hela vägen upp och frys i cirka 24 timmar.",
+              "Gör persikosirap: koka upp persika, socker och vatten i en kastrull. Sjud 8-10 minuter tills sockret löst sig och persikan mjuknat. Mixa slätt och kyl.",
+              "Lossa isringen genom att låta formen stå i rumstemperatur cirka 10 minuter eller doppa snabbt i varmt vatten.",
+              "Lägg isringen i en stor bålskål och häll i vodka, cassislikör, persikosirap, limejuice och champagne.",
+              "Rör om lätt och servera i glas med is."
+            ]
+          }
+        ],
+        timing: ["Förberedelsetid: 30 minuter", "Tillagningstid: 10 minuter", "Total tid: 40 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per drink)",
+          items: ["Kalorier: cirka 150 kcal", "Portioner: 10-12"]
+        }
+      },
+      en: {
+        intro: "An elegant punch-style cocktail with peach, mint, vodka, and champagne. Perfect for parties and larger groups.",
+        ingredients: [
+          {
+            title: "For the peach and mint ice ring",
+            items: [
+              "Sliced peach",
+              "Fresh mint",
+              "Cold water",
+              "1 large Bundt pan (about 2.5-3 liters)"
+            ]
+          },
+          {
+            title: "For the peach syrup",
+            items: ["Sliced peach", "4.5 dl sugar", "5 dl water"]
+          },
+          {
+            title: "For the cocktail",
+            items: [
+              "9.5 dl vodka",
+              "7 dl cassis liqueur",
+              "4.5 dl peach syrup",
+              "1 dl lime juice",
+              "1 bottle champagne (750 ml)",
+              "20 sprigs fresh mint",
+              "Ice for serving"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Make the ice ring: place sliced peach and mint in a Bundt pan. Fill with cold water almost to the top and freeze for about 24 hours.",
+              "Make the peach syrup: bring peach, sugar, and water to a boil in a saucepan. Simmer for 8-10 minutes until sugar dissolves and peach softens. Blend smooth and chill.",
+              "Release the ice ring by letting the pan stand at room temperature for about 10 minutes, or dip briefly in warm water.",
+              "Place the ice ring in a large punch bowl and add vodka, cassis liqueur, peach syrup, lime juice, and champagne.",
+              "Stir gently and serve in glasses over ice."
+            ]
+          }
+        ],
+        timing: ["Prep Time: 30 minutes", "Cook Time: 10 minutes", "Total Time: 40 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per drink)",
+          items: ["Calories: about 150 kcal", "Servings: 10-12"]
+        }
+      }
+    }
   }
 ];
