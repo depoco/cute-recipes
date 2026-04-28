@@ -4532,5 +4532,71 @@ export const recipes = [
         }
       }
     }
+  },
+  {
+    slug: "vanilla-vodka-cola",
+    title: "Vanilla Vodka and Cola",
+    image: "/recipes/vanilla-vodka-cola/images/vanilla-vodka-cola.jpg",
+    imageAlt: {
+      sv: "Vaniljvodka och cola med lime",
+      en: "Vanilla vodka and cola with lime"
+    },
+    tags: ["drinks"],
+    content: {
+      sv: {
+        intro: "En enkel och söt drink som kombinerar den mjuka smaken av vanilj med klassisk cola och frisk lime.",
+        ingredients: [
+          {
+            items: [
+              "4,5 cl vaniljvodka",
+              "9 cl cola (eller efter smak)",
+              "Is",
+              "Limeklyfta till garnering"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Fyll ett glas med is.",
+              "Häll i vaniljvodka och cola.",
+              "Rör om försiktigt och garnera med en limeklyfta."
+            ]
+          }
+        ],
+        timing: ["Total tid: 5 minuter"],
+        nutrition: {
+          title: "Näringsvärde (per drink)",
+          items: ["Kalorier: cirka 140 kcal", "Portioner: 1"]
+        }
+      },
+      en: {
+        intro: "A simple and sweet drink combining smooth vanilla flavor with classic cola and fresh lime.",
+        ingredients: [
+          {
+            items: [
+              "4.5 cl vanilla vodka",
+              "9 cl cola (or to taste)",
+              "Ice",
+              "Lime wedge for garnish"
+            ]
+          }
+        ],
+        steps: [
+          {
+            items: [
+              "Fill a glass with ice.",
+              "Add vanilla vodka and cola.",
+              "Stir gently and garnish with a lime wedge."
+            ]
+          }
+        ],
+        timing: ["Total Time: 5 minutes"],
+        nutrition: {
+          title: "Nutritional Information (per drink)",
+          items: ["Calories: about 140 kcal", "Servings: 1"]
+        }
+      }
+    }
   }
 ];
