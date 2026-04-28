@@ -1048,7 +1048,7 @@ export const recipes = [
         timing: ["Förberedelsetid: 3 minuter", "Tillagningstid: 4 minuter", "Total tid: 7 minuter"],
         nutrition: {
           title: "Näringsvärde (per drink)",
-          items: ["Kalorier: ~180 kcal", "Portioner: 1"]
+          items: ["Kalorier: ~260 kcal", "Portioner: 1"]
         },
         assumptions: {
           title: "Anteckningar:",
@@ -1087,7 +1087,7 @@ export const recipes = [
         timing: ["Prep Time: 3 minutes", "Mixing Time: 4 minutes", "Total Time: 7 minutes"],
         nutrition: {
           title: "Nutritional Information (per drink)",
-          items: ["Calories: ~180 kcal", "Servings: 1"]
+          items: ["Calories: ~260 kcal", "Servings: 1"]
         },
         assumptions: {
           title: "Notes:",
@@ -1136,7 +1136,7 @@ export const recipes = [
         timing: ["Förberedelsetid: 2 minuter", "Tillredningstid: 4 minuter", "Total tid: 6 minuter"],
         nutrition: {
           title: "Näringsvärde (per drink)",
-          items: ["Kalorier: ~180 kcal", "Portioner: 1"]
+          items: ["Kalorier: ~125 kcal", "Portioner: 1"]
         },
         assumptions: {
           title: "Anteckningar:",
@@ -1173,7 +1173,7 @@ export const recipes = [
         timing: ["Prep Time: 2 minutes", "Mixing Time: 4 minutes", "Total Time: 6 minutes"],
         nutrition: {
           title: "Nutritional Information (per drink)",
-          items: ["Calories: ~180 kcal", "Servings: 1"]
+          items: ["Calories: ~125 kcal", "Servings: 1"]
         },
         assumptions: {
           title: "Notes:",
@@ -4151,7 +4151,7 @@ export const recipes = [
         timing: ["Förberedelsetid: 10 minuter", "Total tid: 10 minuter"],
         nutrition: {
           title: "Näringsvärde (per drink)",
-          items: ["Kalorier: cirka 150 kcal", "Portioner: 2"]
+          items: ["Kalorier: cirka 200 kcal", "Portioner: 1"]
         }
       },
       en: {
@@ -4182,7 +4182,7 @@ export const recipes = [
         timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes"],
         nutrition: {
           title: "Nutritional Information (per drink)",
-          items: ["Calories: about 150 kcal", "Servings: 2"]
+          items: ["Calories: about 200 kcal", "Servings: 1"]
         }
       }
     }
@@ -4232,7 +4232,7 @@ export const recipes = [
         timing: ["Förberedelsetid: 10 minuter", "Total tid: 10 minuter", "Extra tid: 2 timmar i kyl"],
         nutrition: {
           title: "Näringsvärde (per drink)",
-          items: ["Kalorier: cirka 150 kcal", "Portioner: 4"]
+          items: ["Kalorier: cirka 330 kcal", "Portioner: 4"]
         }
       },
       en: {
@@ -4270,7 +4270,7 @@ export const recipes = [
         timing: ["Prep Time: 10 minutes", "Total Time: 10 minutes", "Extra Time: 2 hours chilled"],
         nutrition: {
           title: "Nutritional Information (per drink)",
-          items: ["Calories: about 150 kcal", "Servings: 4"]
+          items: ["Calories: about 330 kcal", "Servings: 4"]
         }
       }
     }
@@ -4305,7 +4305,7 @@ export const recipes = [
         timing: ["Förberedelsetid: 5 minuter", "Total tid: 5 minuter"],
         nutrition: {
           title: "Näringsvärde (per drink)",
-          items: ["Kalorier: cirka 150 kcal", "Portioner: 1"]
+          items: ["Kalorier: cirka 135 kcal", "Portioner: 1"]
         }
       },
       en: {
@@ -4328,7 +4328,7 @@ export const recipes = [
         timing: ["Prep Time: 5 minutes", "Total Time: 5 minutes"],
         nutrition: {
           title: "Nutritional Information (per drink)",
-          items: ["Calories: about 150 kcal", "Servings: 1"]
+          items: ["Calories: about 135 kcal", "Servings: 1"]
         }
       }
     }
@@ -4482,7 +4482,7 @@ export const recipes = [
         timing: ["Förberedelsetid: 30 minuter", "Tillagningstid: 10 minuter", "Total tid: 40 minuter"],
         nutrition: {
           title: "Näringsvärde (per drink)",
-          items: ["Kalorier: cirka 150 kcal", "Portioner: 10-12"]
+          items: ["Kalorier: cirka 520 kcal", "Portioner: 10-12"]
         }
       },
       en: {
@@ -4528,7 +4528,7 @@ export const recipes = [
         timing: ["Prep Time: 30 minutes", "Cook Time: 10 minutes", "Total Time: 40 minutes"],
         nutrition: {
           title: "Nutritional Information (per drink)",
-          items: ["Calories: about 150 kcal", "Servings: 10-12"]
+          items: ["Calories: about 520 kcal", "Servings: 10-12"]
         }
       }
     }
